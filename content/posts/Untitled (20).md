@@ -8,4 +8,4 @@ draft: false
 
 \---
 
-!\[]\(https\://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/IMG\_20260909\_152537\_376.jpg)
+!\[20]\(https\://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/IMG\_20260909\_152537\_376.jpg)
