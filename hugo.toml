@@ -65,3 +65,4 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNumbersInTable = false
     codeFences = true
 publishdir = "public"
+theme = "hugo-bearblog"
