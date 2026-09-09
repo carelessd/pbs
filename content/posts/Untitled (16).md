@@ -4,8 +4,6 @@ date: 2026-09-09T16:00:00+08:00
 draft: false
 ---
 
-testigghjvv
-
 ![X0gqiqqqwRM6.jpg](https://img.remit.ee/i/X0gqiqqqwRM6)
 
 ![7Z3K6u02g7bw.jpg](https://img.remit.ee/i/7Z3K6u02g7bw)
