@@ -1,6 +1,0 @@
-git add . && git commit -m "update blog" && git pull origin main --rebase && git push
-+++
-date = '2026-09-09T07:05:42Z'
-draft = true
-title = 'My New Post'
-+++
