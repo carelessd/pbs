@@ -1,3 +1,3 @@
 ---
-title: "Home"
+t-layout: list
 ---
