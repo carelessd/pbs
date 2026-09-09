@@ -9,5 +9,3 @@ draft: false
 ![MyX0RY8UMMxd.jpg](https://img.remit.ee/i/MyX0RY8UMMxd)
 
 ![NhuFK7phmRzh.jpg](https://img.remit.ee/i/NhuFK7phmRzh)
-
-![zd1DcbJncDnD.mp4](https://img.remit.ee/i/zd1DcbJncDnD)
