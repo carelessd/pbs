@@ -64,3 +64,4 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+publishdir = "public"
