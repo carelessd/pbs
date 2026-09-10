@@ -1,0 +1,8 @@
+{{ with .Page.Params.audio_url }}
+<div class="audio-player" style="margin: 20px 0;">
+  <audio controls style="width: 100%;">
+    <source src="{{ . }}" type="{{ $.Page.Params.audio_type | default "audio/mp4" }}">
+    您的浏览器不支持音频播放。
+  </audio>
+</div>
+{{ end }}
