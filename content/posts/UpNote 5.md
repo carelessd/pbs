@@ -1,7 +1,7 @@
 ---
 title: UpNote
-Date:2026-09-09
-Draft: false
+date: 2026-09-09
+draft: false
 source: https://getupnote.com/share/notes/6Y6LL500lkVq16aszYaHIFjCcEZ2/01a0860a-5f05-766d-b47c-f5c67834536e
 author:
 published:
