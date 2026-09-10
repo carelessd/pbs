@@ -7,13 +7,9 @@ audio_length: "8912345" # 音频文件大小（字节），可在文件属性里
 audio_type: "audio/mp4" # 如果是 m4a 填 audio/mp4，mp3 填 audio/mpeg
 ---
 
-<item>
-  <title>{{ .Title }}</title>
-  <link>{{ .Permalink }}</link>
-  <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
-  <guid>{{ .Permalink }}</guid>
-  <description>{{ .Summary | html }}</description>
-  {{ with .Params.audio_url }}
-  <enclosure url="{{ . }}" length="{{ $.Params.audio_length }}" type="{{ $.Params.audio_type }}"/>
-  {{ end }}
-</item>
+<div class="audio-player" style="margin: 20px 0;">
+  <audio controls style="width: 100%;">
+    <source src="{{ . }}" type="{{ $.Params.audio_type | default "audio/mp4" }}">
+    您的浏览器不支持音频播放。
+  </audio>
+</div>
