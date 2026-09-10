@@ -9,7 +9,7 @@ audio_type: "audio/mp4" # 如果是 m4a 填 audio/mp4，mp3 填 audio/mpeg
 
 <div class="audio-player" style="margin: 20px 0;">
   <audio controls style="width: 100%;">
-    <source src="{{ . }}" type="{{ $.Params.audio_type | default "audio/mp4" }}">
+    <source src="{{ .Params.audio_url }}" type="{{ .Params.audio_type | default "audio/mp4" }}">
     您的浏览器不支持音频播放。
   </audio>
 </div>
