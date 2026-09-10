@@ -1,7 +1,7 @@
 ---
 
 Title: A
-Date: 2026-09-09-23:00
+Date: 2026-09-09
 Draft: fase
 
 ---
