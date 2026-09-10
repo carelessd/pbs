@@ -1,0 +1,124 @@
+:root {
+
+  /* Scrollbar */
+
+  --scrollbar-track-background-color: #121212;
+  --scrollbar-thumb-background-color: #222;
+  --scrollbar-thumb-hover-background-color: #555;
+
+
+  /* Selection */
+
+  --selection-background-color: #008eff;
+  --selection-text-color: white;
+
+
+  /* Generic */
+
+  --background-color: #121212;
+  --text-color: #bcbcbc;
+  --link-color: #bcbcbc;
+  --svg-fill-color: #626262;
+  --horizontal-rule: 1px solid #3d3d3d;
+
+
+  /* Notifications */
+
+  --notification-border-color: #454545;
+
+
+  /* Overlay */
+
+  --to-create-overlay-background-color: #134e82;
+  --to-rename-overlay-background-color: rgba(30, 136, 229, .7);
+  --to-delete-overlay-background-color: rgba(255, 0, 0, .6);
+
+
+  /* Modal */
+
+  --modal-background-color: #222;
+  --modal-border-color: transparent;
+  --modal-input-border-color: transparent;
+  --modal-button-background-color: white;
+  --modal-button-text-color: #121212;
+
+
+  /* Context menu */
+
+  --context-menu-background-color: #383838;
+  --context-menu-text-color: white;
+  --context-menu-hover-background-color: #494949;
+  --context-menu-hover-text-color: white;
+  --context-menu-disabled-text-color: #626262;
+
+
+  /* Sidebar */
+
+  --sidebar-notes-background-color: #121212;
+  --sidebar-notes-text-color: #626262;
+  --sidebar-active-note-background-color: #222;
+  --sidebar-active-note-text-color: white;
+
+
+  /* Drag */
+
+  --drag-border-color: #454545;
+  --drag-resizing-border-color: white;
+
+
+  /* Bar */
+
+  --bar-border-color: #454545;
+  --bar-button-hover-background-color: #222;
+  --bar-button-hover-color: white;
+  --bar-submenu-background-color: #121212;
+
+
+  /* Tooltip */
+
+  --tooltip-background-color: #222;
+  --tooltip-text-color: white;
+
+
+  /* Note */
+
+  --pre-border-color: #454545;
+  --highlight-background-color: yellow;
+  --highlight-text-color: black;
+  --table-border: 3px solid #454545;
+  --table-td-border: 1px solid #222;
+  --table-td-heading-background-color: #222;
+  --table-resizing-div-thickness: 4px;
+  --resizing-line-color: #0000ff;
+
+
+  /* Command palette */
+
+  --command-palette-input-background-color: #2c2c2c;
+  --command-palette-input-text-color: white;
+  --command-palette-border-color: #454545;
+  --command-palette-item-background-color: #121212;
+  --command-palette-item-text-color: #626262;
+  --command-palette-item-hover-background-color: #181818;
+  --command-palette-item-hover-text-color: white;
+  --command-palette-active-item-background-color: #222;
+  --command-palette-active-item-text-color: white;
+
+
+  /* Overview */
+
+  --overview-tile-border-color: #454545;
+
+
+  /* Only in Options */
+
+  --keyboard-shortcut-background-color: #222;
+  --keyboard-shortcut-text-color: white;
+
+  --comment-background-color: #222;
+  --comment-text-color: #d6d6d6;
+
+  --slider-background-color: #d6d6d6;
+  --slider-thumb-background-color: #d6d6d6;
+  --slider-thumb-size: 16px;
+}

@@ -1,0 +1,48 @@
+{
+  "manifest_version": 3,
+  "name": "My Notes",
+  "description": "Simple and fast note-taking.",
+  "version": "3.29",
+  "homepage_url": "https://github.com/penge/my-notes",
+  "icons": {
+    "128": "images/icon128.png"
+  },
+  "options_page": "options.html",
+  "permissions": [
+    "storage",
+    "unlimitedStorage",
+    "contextMenus",
+    "notifications"
+  ],
+  "optional_permissions": [
+    "identity"
+  ],
+  "host_permissions": [
+    "https://drive.google.com/"
+  ],
+  "oauth2": {
+    "client_id": "813847979218-unbbh8m0el8vjdi74rnqdarm1mhv3985.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/drive.file"
+    ]
+  },
+  "background": {
+    "service_worker": "background.mjs",
+    "type": "module"
+  },
+  "action": {
+    "default_icon": "images/icon128.png"
+  },
+  "commands": {
+    "open-my-notes": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+M",
+        "windows": "Ctrl+Shift+M",
+        "mac": "Ctrl+Shift+M"
+      },
+      "description": "Open My Notes"
+    }
+  },
+  "minimum_chrome_version": "92",
+  "offline_enabled": true
+}

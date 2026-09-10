@@ -1,0 +1,41 @@
+{
+  "include": [
+    "./src/**/*",
+    "./env/set-client-id.ts",
+    "./jest.config.ts",
+    "./jest.setup.ts",
+    "./register.js",
+    "./build.ts",
+    "./scripts/**/*"
+  ],
+
+  "compilerOptions": {
+    "lib": ["ES2022"],
+    "module": "ES2022",
+    "target": "ES2022",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "rootDir": "./",
+    "baseUrl": "./src",
+    "sourceMap": true,
+
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+
+    "jsx": "react",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment"
+  },
+
+  "ts-node": {
+    "moduleTypes": {
+      "jest.config.ts": "cjs"
+    }
+  }
+}

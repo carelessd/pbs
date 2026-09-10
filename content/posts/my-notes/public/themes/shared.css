@@ -1,0 +1,42 @@
+/* Scrollbar */
+
+::-webkit-scrollbar { width: 11px; height: 11px; }
+::-webkit-scrollbar-track { background: var(--scrollbar-track-background-color); }
+::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb-background-color); }
+::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover-background-color); }
+
+/* Generic */
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--background-color);
+  color: var(--text-color);
+}
+
+a {
+  font-weight: bold;
+  text-decoration: underline;
+  color: var(--link-color);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.hide {
+  display: none !important;
+}
+
+.keyboard-shortcut, .url {
+  border-radius: 3px;
+  padding: 5px 10px;
+  display: inline-block;
+  font-family: "Courier New", Courier, monospace;
+  background: var(--keyboard-shortcut-background-color);
+  color: var(--keyboard-shortcut-text-color);
+}
+
+.keyboard-shortcut {
+  font-weight: bold;
+}
