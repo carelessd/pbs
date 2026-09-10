@@ -1,3 +1,9 @@
-title: 累了
-date: 2026-09-09
-draft: false
+---
+
+Title: 累了毁灭吧
+Date: 2026-09-09
+Draft: fase
+
+---
+
+太他妈麻烦了
