@@ -1,6 +1,6 @@
 ---
 title: "Technocracy: The Operating System For The New International Rules-Based Order"
-date: 2026-09-09
+date: 2026-09-11
 draft: false
 source: "https://unlimitedhangout.com/2022/02/investigative-reports/technocracy-the-operating-system-for-the-new-international-rules-based-order-1/"
 author:
