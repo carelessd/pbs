@@ -6,4 +6,4 @@ Draft: false
 
 ---
 
-!(/storage/emulated/0/Android/data/com.kin.easynotes/files/2461132817.jpg)
+![] (/storage/emulated/0/Android/data/com.kin.easynotes/files/2461132817.jpg)
