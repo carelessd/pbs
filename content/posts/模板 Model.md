@@ -47,15 +47,19 @@ https://paper.wf/careless/
 
 https://rant.li/careless/
 
-Listed.to没法访问，虽然可以用Standard Notes写; Notesnook/Anytype可以打开，速度不快，而且不是博客平台，每次都要生成链接; Upnote也可以生成，速度一般，有App; SimpleNote主站有时可以打开，但是它的短链接可以打开; Telegra.ph被墙了，而且每次都要生成链接; Write.as以前可以注册，现在已关闭，只有收费的，有App，没有邮件写。
+Listed.to没法访问，虽然可以用Standard Notes写; Notesnook/Anytype/Craft.do可以打开，速度不快，基础功能不多，都主要收费，而且不是博客平台，每次都要生成链接; Upnote也可以生成，速度一般，有App; SimpleNote主站有时可以打开，但是它的短链接可以打开; Telegra.ph被墙了，而且每次都要生成链接; Write.as以前可以注册，现在已关闭，只有收费的，有App，没有邮件写。
 
 https://listed.to/@Carelessly
 
 https://app.notesnook.com/notes
 
+https://monogr.ph/
+
 https://anytype.io/
 
 https://any.coop/AApCYiXJtTcCjat7AZ1xUPav5s7UPGTE5D8VTEnR9EqRwaYR/transformer
+
+https://www.craft.do/plan
 
 https://getupnote.com/share/notes/6Y6LL500lkVq16aszYaHIFjCcEZ2/01a05598-7666-7209-83a3-01ded6b74840
 
@@ -67,13 +71,25 @@ https://telegra.ph/
 
 https://write.as/
 
-Blogger有App/Email写博客，Tumblr/WordPress也有App，但被大陆屏蔽了。
+Blogger有App/Email写博客，Tumblr/WordPress/Substack/Medium/Ghost 也有App，但被大陆屏蔽了; teletype.in可以打开:
 
 https://carelessd.blogspot.com/?m=1
 
 https://www.tumblr.com/carelessw
 
 http://carelessk.wordpress.com
+
+https://careless39.wordpress.com/
+
+https://substack.com/
+
+https://medium.com/
+
+https://teletype.in/
+
+https://ghost.org/
+
+
 
 Matters无法访问: https://matters.town/featured
 
@@ -121,3 +137,15 @@ https://carelessly.offprint.app/
 Lnk.io也可以访问:
 
 https://lnk.bio/Careless
+
+PrivateBin/Wormhole/Send可以打开，Rentry打不开:
+
+https://privatebin.net/
+
+https://send.vis.ee/
+
+https://wormhole.app/
+
+https://privatebin.info/directory/
+
+https://rentry.co/
