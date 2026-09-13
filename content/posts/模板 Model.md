@@ -16,7 +16,7 @@ Bearblog可以访问，但是只有Web，没有App跟邮件写，Storage只有10
 
 https://transformer.bearblog.dev/
 
-Notepin.co可以打开，但是没法App/Email写blogposts:
+Notepin.co可以打开，但是没法App/Email写blogposts，没法发带link的内容及图片:
 
 https://careless.notepin.co
 
@@ -151,7 +151,7 @@ Lnk.io也可以访问:
 
 https://lnk.bio/Careless
 
-PrivateBin/Wormhole/Send/Txt.fyi可以打开，Rentry打不开:
+PrivateBin/Wormhole/Send可以打开，Rentry打不开:
 
 https://privatebin.net/
 
@@ -160,7 +160,5 @@ https://send.vis.ee/
 https://wormhole.app/
 
 https://privatebin.info/directory/
-
-https://txt.fyi/
 
 https://rentry.co/
