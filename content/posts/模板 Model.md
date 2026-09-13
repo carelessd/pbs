@@ -14,9 +14,19 @@ Tags:
 
 Bearblog可以访问，但是只有Web，没有App跟邮件写，Storage只有100MB。
 
+https://transformer.bearblog.dev/
+
+Notepin.co可以打开，但是没法App/Email写blogposts:
+
+https://careless.notepin.co
+
 Pagecord可以访问但很慢，可以邮件写，但是上传图片只能20张。
 
-Mataora没法访问，收费用户可以邮件写
+https://careless.pagecord.com/
+
+Mataora没法访问，收费用户可以邮件写。
+
+https://careless.mataroa.blog/
 
 Write.as被墙了，但某些第三方可以访问，比如:
 
@@ -27,7 +37,6 @@ https://write.c7.io/carelessly/
 图床有些也能打开，比如:
 
 https://catbox.moe/
-
 https://img.remit.ee/en
 
 Write.as偶尔也能打开，多数时候打不开，下面两个第三方实例也一样:
@@ -58,7 +67,37 @@ https://telegra.ph/
 
 https://write.as/
 
-Blogger有App/Email写博客，WordPress也有，但被大陆屏蔽了。
+Blogger有App/Email写博客，Tumblr/WordPress也有App，但被大陆屏蔽了。
+
+https://carelessd.blogspot.com/?m=1
+
+https://www.tumblr.com/carelessw
+
+http://carelessk.wordpress.com
+
+Matters无法访问: https://matters.town/featured
+
+Notion.site可以打开，但是生成的链接有时候打不开:
+
+https://carelessly.notion.site/Transformer-3d824444630480258bb6c56d26818c47
+
+https://app.notion.com/p/Test-3d8244446304808b8251fac7922c1494
+
+自建的CloudFlare Page + GitHub 生成的 Hugo博客配上没被封的域名就可以:
+
+https://k.hieronymus.uk/
+
+https://transformer-3qk.pages.dev/
+
+https://n.hieronymus.uk/posts/
+
+https://my-blog-4d3.pages.dev/posts/
+
+日本的Note.com有App但是被墙了:
+
+https://note.com/
+
+
 
 PCKT可以打开，没有App，没看到邮件发，每个月只能发15篇。
 
