@@ -71,7 +71,7 @@ https://telegra.ph/
 
 https://write.as/
 
-Blogger有App/Email写博客，Tumblr/WordPress/Substack/Medium/Ghost 也有App，但被大陆屏蔽了; teletype.in可以打开:
+Blogger有App/Email写博客，Tumblr/WordPress/Substack/Medium/Ghost 也有App，但被大陆屏蔽了; teletype.in/Telescope.ac/Nyan-8可以打开:
 
 https://carelessd.blogspot.com/?m=1
 
@@ -81,21 +81,31 @@ http://carelessk.wordpress.com
 
 https://careless39.wordpress.com/
 
-https://substack.com/
+https://carelessw.substack.com
 
 https://medium.com/
 
 https://teletype.in/
 
+https://telescope.ac/Carelessly
+
+https://editor.telescope.ac/
+
+https://nyan-8.com/
+
 https://ghost.org/
 
+https://carelessly.ghost.io
 
+Matters/Leaflet无法访问: https://matters.town/featured
 
-Matters无法访问: https://matters.town/featured
+https://about.leaflet.pub
 
 Notion.site可以打开，但是生成的链接有时候打不开:
 
 https://carelessly.notion.site/Transformer-3d824444630480258bb6c56d26818c47
+
+https://carelessly.notion.site/
 
 https://app.notion.com/p/Test-3d8244446304808b8251fac7922c1494
 
@@ -133,12 +143,15 @@ https://quaily.com/quail-zh/p/alternatives
 
 https://carelessly.offprint.app/
 
+Obsidian + Sharenotes 插件，可以生成link:
+
+https://share.note.sx/j2ghlu43#9lGJOaMog0Gs2YRLW5hsow
 
 Lnk.io也可以访问:
 
 https://lnk.bio/Careless
 
-PrivateBin/Wormhole/Send可以打开，Rentry打不开:
+PrivateBin/Wormhole/Send/Txt.fyi可以打开，Rentry打不开:
 
 https://privatebin.net/
 
@@ -147,5 +160,7 @@ https://send.vis.ee/
 https://wormhole.app/
 
 https://privatebin.info/directory/
+
+https://txt.fyi/
 
 https://rentry.co/
