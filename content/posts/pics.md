@@ -1,7 +1,7 @@
 ---
 
 Title: pics
-Date: 2026-09-12
+Date: 2026-09-06
 Draft: fase
 Tags:
     - "pics" 
