@@ -1,7 +1,7 @@
 ---
 
 Title: Model 
-Date: 2026-09-15
+Date: 2026-09-08
 Draft: fase
 Tags:
     - pics
