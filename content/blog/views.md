@@ -1,6 +1,6 @@
 ---
 
-Title: views
+Title: Views
 Date: 2026-09-06
 Draft: fase
 Tags:
