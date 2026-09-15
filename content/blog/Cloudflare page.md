@@ -1,6 +1,6 @@
 ---
 
-title: cloudflare page
+title: Cloudflare page
 date: 2026-09-10
 draft: fase
 tags: 
