@@ -3,7 +3,8 @@
 title: Fox
 date: 2026-09-14
 draft: false
-
+Tags:
+    - thoughts 
 ---
 
 #### Fox
