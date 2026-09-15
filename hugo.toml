@@ -70,4 +70,8 @@ mainSections = ["blog"]
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+
+  [markup.goldmark.renderer]
+    unsafe = true
+
 publishdir = "public"
