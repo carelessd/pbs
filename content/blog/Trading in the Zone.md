@@ -1,6 +1,6 @@
 ---
 
-Title: 交易心理分析
+Title: Trading in the Zone
 Date: 2026-09-14
 Draft: False 
 Tags: 

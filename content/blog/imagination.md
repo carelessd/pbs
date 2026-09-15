@@ -1,6 +1,6 @@
 ---
 
-Title: 幻觉
+Title: Imagination
 Date: 2026-09-09
 Draft: fase
 Tags:

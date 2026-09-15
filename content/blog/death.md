@@ -1,5 +1,5 @@
 ---
-title: "死"
+title: Death
 date: 2026-09-09
 draft: false
 source: "https://getupnote.com/share/notes/6Y6LL500lkVq16aszYaHIFjCcEZ2/01a08a6c-f40e-7da4-9002-814d179a3da3"
