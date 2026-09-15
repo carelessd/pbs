@@ -3,6 +3,9 @@
 title: All the Light We Cannot See by Anthony Doerr 
 date: 2026-09-06
 draft: false
+Tags:
+    - "Books" 
+    - digest
 
 ---
 

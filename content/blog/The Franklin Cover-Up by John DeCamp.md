@@ -3,7 +3,9 @@
 title: The Franklin Cover-Up by John DeCamp
 Date: 2026-09-06
 draft: false
-
+Tags:
+    - "Books" 
+    - digest
 ---
 
 ![The Franklin Cover-Up by John DeCamp](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/71i21W6VGKL._AC_SL1500_.jpg) 

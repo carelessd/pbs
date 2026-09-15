@@ -3,7 +3,9 @@
 title: What We Talk About When We Talk About Love Stories 
 date: 2026-09-06
 draft: false
-
+Tags:
+    - "Books" 
+    - digest
 ---
 
 ![What We Talk About When We Talk About Love Stories](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/71eEjilZwCL._SL1200_.jpg)

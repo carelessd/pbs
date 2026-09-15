@@ -3,7 +3,9 @@
 title: 2666 by Roberto Bolaño
 date: 2026-09-06
 draft: false
-
+Tags:
+    - "Books" 
+    - digest
 ---
 
 ![2666 by Roberto Bolaño](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/2666-1327x2048.jpg)
