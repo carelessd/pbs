@@ -1,6 +1,6 @@
 ---
 
-title: Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion by Gary Webb 
+title: Dark Alliance The CIA, the Contras, and the Crack Cocaine Explosion by Gary Webb 
 date: 2026-09-06
 draft: false
 
