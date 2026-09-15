@@ -2,6 +2,8 @@
 title: Reading
 Date: 2026-09-15
 draft: false
+Tags: 
+    - reading 
 ---
 
 ## 📖 Now Reading: "Trading Volatility"
