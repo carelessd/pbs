@@ -5,6 +5,11 @@ baseURL = "https://n.hieronymus.uk/"
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
 
+# ==========================================
+# 开启分页功能：设置每页显示的文章数量
+paginate = 10 
+# ==========================================
+
 # Basic metadata configuration for your blog.
 title = "Careless"
 author = "Jane Doe"
@@ -65,4 +70,3 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNumbersInTable = false
     codeFences = true
 publishdir = "public"
-theme = "hugo-bearblog"
