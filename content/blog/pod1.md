@@ -18,3 +18,5 @@ audio_type: "audio/mp4" # 如果是 m4a 填 audio/mp4，mp3 填 audio/mpeg
 Episode webpage: https://podcast-bzm.pages.dev
 
 Media file: https://podcast-bzm.pages.dev/test.m4a
+
+Rss: https://podcast-bzm.pages.dev/podcast.xml
