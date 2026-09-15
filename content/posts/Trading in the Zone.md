@@ -10,6 +10,7 @@ Tags:
 
 ---
 
+![Trading in the Zone](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/trading-in-the-zone-master-the-market-with-confidence-discipline-and-a-winning-attitude.jpg)
 
 ### 道格拉斯的交易心理分析(Trading in the Zone)的基石基于以下五个事实：
 
