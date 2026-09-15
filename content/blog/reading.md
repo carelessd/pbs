@@ -4,8 +4,8 @@ Date: 2026-09-15
 draft: false
 ---
 
-## 📖 正在阅读：《Trading Volatility》
+## 📖 Now Reading: "Trading Volatility"
 
-由于手机浏览器的安全限制，建议点击下方链接直接在浏览器中打开或下载阅读：
+Due to mobile browser security restrictions, please click the link below to open or download the PDF directly in your browser:
 
-[📥 点击直接全屏阅读/下载 PDF](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Trading-Volatility.pdf)
+[📥 Click to Read Fullscreen / Download PDF](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Trading-Volatility.pdf)
