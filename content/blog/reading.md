@@ -1,6 +1,6 @@
 ---
 title: Reading
-Date: 2026-09-16
+Date: 2026-09-15
 draft: false
 ---
 
