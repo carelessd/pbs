@@ -12,7 +12,7 @@ Tags:
 
 ![Trading in the Zone](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/trading-in-the-zone-master-the-market-with-confidence-discipline-and-a-winning-attitude.jpg)
 
-#### 道格拉斯的交易心理分析(Trading in the Zone)的基石基于以下五个事实：
+#### 道格拉斯的交易心理分析的五个事实：
 
 ​任何事情都可能发生： 市场由无数人的非理性情绪组成，你永远不可能完全掌控市场。哪怕技术形态再完美，下一秒依然可能突然出现极端反转。
 
