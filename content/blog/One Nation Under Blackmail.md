@@ -1,7 +1,7 @@
 ---
 
 title: One Nation Under Blackmail 
-date: 2026-09-15
+date: 2026-09-06
 draft: false
 
 ---
