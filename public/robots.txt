@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: http://localhost:38037/sitemap.xml
+Sitemap: https://n.hieronymus.uk/sitemap.xml

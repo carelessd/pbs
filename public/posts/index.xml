@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Careless</title>
-		<link>https://n.hieronymus.uk/</link>
-		<description>Recent content on Careless</description>
+		<title>Posts on Careless</title>
+		<link>https://n.hieronymus.uk/posts/</link>
+		<description>Recent content in Posts on Careless</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
 		
@@ -14,7 +14,7 @@
 		
 			<lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://n.hieronymus.uk/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://n.hieronymus.uk/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Fox</title>
 				<link>https://n.hieronymus.uk/posts/fox/</link>
