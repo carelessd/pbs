@@ -1,14 +1,10 @@
 ---
-title: "Podcasts"
-date: 2026-09-10T08:00:00Z
+title: Podcast
+Date: 2026-09-10
 draft: false
-Tags:
-    - "podcasts"
-    - "clippings"
-    - "music"
 ---
 
-乱弹: Test
+Random: Test
 
 Episode webpage: https://podcast-bzm.pages.dev
 
@@ -16,14 +12,14 @@ Media file: https://podcast-bzm.pages.dev/test.m4a
 
 Rss: https://podcast-bzm.pages.dev/podcast.xml
 
-<div class="podcast-player" style="margin: 20px 0; padding: 20px; border: 1px solid #eaeaea; border-radius: 12px; background-color: #f9f9f9;">
-  <h3 style="margin-top: 0; margin-bottom: 10px;">🎙️ 播客节目收听</h3>
-  <p style="font-size: 14px; color: #666; margin-bottom: 12px;">
-    访问 <a href="https://podcast-bzm.pages.dev" target="_blank">Episode Webpage</a> | 
-    订阅 <a href="https://podcast-bzm.pages.dev/podcast.xml" target="_blank">RSS Feed</a>
-  </p>
-  <audio controls preload="metadata" style="width: 100%;">
-    <source src="https://podcast-bzm.pages.dev/test.m4a" type="audio/mp4">
-    您的浏览器不支持音频播放标签。
-  </audio>
+<div style="margin-top: 20px; padding: 15px; background: #e6eae0; border-radius: 8px;">
+    <span style="color: #2c3e35 !important; font-weight: bold; display: block; margin-bottom: 10px;">🎙️ Podcast Episode Player</span>
+    <audio controls style="width: 100%;">
+        <source src="https://podcast-bzm.pages.dev/test.m4a" type="audio/mp4">
+        Your browser does not support the audio element.
+    </audio>
+    <p style="font-size: 14px; margin-top: 10px;">
+        <a href="https://podcast-bzm.pages.dev" target="_blank">Visit Episode Webpage</a> | 
+        <a href="https://podcast-bzm.pages.dev/podcast.xml" target="_blank">Subscribe RSS Feed</a>
+    </p>
 </div>
