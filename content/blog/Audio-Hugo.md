@@ -1,5 +1,5 @@
 ---
-title: "Podcast"
+title: "Podcasts"
 date: 2026-09-10T08:00:00Z
 draft: false
 Tags:
