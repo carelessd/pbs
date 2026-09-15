@@ -18,7 +18,8 @@
     {{ end }}
   </ul>
 
-  <div style="margin-top: 2rem; display: flex; justify-content: space-between; font-weight: bold;">
+  <!-- 分页按钮 -->
+  <div style="margin-top: 2rem; margin-bottom: 2rem; display: flex; justify-content: space-between; font-weight: bold;">
     {{ if $paginator.HasPrev }}
       <a href="{{ $paginator.Prev.URL }}">« 上一页</a>
     {{ else }}
@@ -31,5 +32,15 @@
       <span></span>
     {{ end }}
   </div>
+
+  <!-- 补回的标签云代码 -->
+  <small>
+    <div>
+      {{ range .Site.Taxonomies.tags }}
+      <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+      {{ end }}
+    </div>
+  </small>
+
 </content>
 {{ end }}
