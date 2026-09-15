@@ -7,7 +7,7 @@ theme = 'hugo-bearblog'
 
 # ==========================================
 # 开启分页功能：设置每页显示的文章数量
-paginate = 10 
+paginate = 20 
 # ==========================================
 
 # Basic metadata configuration for your blog.
