@@ -2,7 +2,7 @@
 <content>
   {{ .Content }}
   
-  {{ $paginator := .Paginate .RegularPages }}
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "blog") }}
   <ul class="blog-posts">
     {{ range $paginator.Pages }}
       <li>
@@ -12,7 +12,7 @@
     {{ end }}
   </ul>
 
-  <!-- 只有当总页数大于1时才显示分页组件 -->
+  <!-- 只有当总页数大于1时才显示分页 -->
   {{ if gt $paginator.TotalPages 1 }}
   <div style="margin-top: 2rem; margin-bottom: 1rem; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; font-weight: bold; font-family: monospace; font-size: 1.2em;">
     {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}">«</a>{{ end }}
