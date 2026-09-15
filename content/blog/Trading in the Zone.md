@@ -4,7 +4,7 @@ Title: Trading in the Zone
 Date: 2026-09-14
 Draft: False 
 Tags: 
-    - journal
+    - journals
     - trading
     - option
 
