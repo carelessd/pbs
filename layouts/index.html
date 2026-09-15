@@ -6,34 +6,53 @@
   <ul class="blog-posts">
     {{ range $paginator.Pages }}
       <li>
-        <span>
-          <i>
-            <time datetime='{{ .Date.Format "2006-01-02" }}'>
-              {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
-            </time>
-          </i>
-        </span>
+        <span><i><time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}</time></i></span>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
   </ul>
 
-  <!-- 分页按钮 -->
-  <div style="margin-top: 2rem; margin-bottom: 2rem; display: flex; justify-content: space-between; font-weight: bold;">
-    {{ if $paginator.HasPrev }}
-      <a href="{{ $paginator.Prev.URL }}">« 上一页</a>
-    {{ else }}
-      <span></span>
+  <!-- 智能折叠数字分页 -->
+  <div style="margin-top: 2rem; margin-bottom: 1rem; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; font-weight: bold; font-family: monospace; font-size: 1.2em;">
+    {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}">«</a>{{ end }}
+
+    {{ range $paginator.Pagers }}
+      <!-- 逻辑：只显示第一页、最后一页、以及当前页的前后1页 -->
+      {{ if or (eq .PageNumber 1) (eq .PageNumber $paginator.TotalPages) (le (math.Abs (sub .PageNumber $paginator.PageNumber)) 1) }}
+        {{ if eq . $paginator }}
+          <span style="text-decoration: underline;">{{ .PageNumber }}</span>
+        {{ else }}
+          <a href="{{ .URL }}">{{ .PageNumber }}</a>
+        {{ end }}
+      {{ else }}
+        <!-- 在特定位置输出省略号 -->
+        {{ if or (eq .PageNumber 2) (eq .PageNumber (sub $paginator.TotalPages 1)) }}
+          <span style="opacity: 0.5;">...</span>
+        {{ end }}
+      {{ end }}
     {{ end }}
-    
-    {{ if $paginator.HasNext }}
-      <a href="{{ $paginator.Next.URL }}">下一页 »</a>
-    {{ else }}
-      <span></span>
-    {{ end }}
+
+    {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}">»</a>{{ end }}
   </div>
 
-  <!-- 补回的标签云代码 -->
+  <!-- 页码跳转输入框 (只有总页数大于3页时才显示) -->
+  {{ if gt $paginator.TotalPages 3 }}
+  <div style="text-align: center; font-family: monospace; font-size: 0.9em; margin-bottom: 2rem;">
+    <span style="opacity: 0.7;">Jump to: </span>
+    <input type="number" id="jumpPage" min="1" max="{{ $paginator.TotalPages }}" placeholder="1-{{ $paginator.TotalPages }}" style="width: 50px; text-align: center; border: 1px solid #888; border-radius: 4px; padding: 2px; background: transparent; color: inherit;">
+    <button onclick="jumpToPage()" style="cursor: pointer; background: transparent; border: 1px solid #888; border-radius: 4px; padding: 2px 8px; color: inherit;">Go</button>
+  </div>
+  <script>
+    function jumpToPage() {
+      var p = parseInt(document.getElementById('jumpPage').value);
+      var max = {{ $paginator.TotalPages }};
+      if(p >= 1 && p <= max) {
+        window.location.href = (p === 1) ? '/blog/' : '/blog/page/' + p + '/';
+      }
+    }
+  </script>
+  {{ end }}
+
   <small>
     <div>
       {{ range .Site.Taxonomies.tags }}
@@ -41,6 +60,5 @@
       {{ end }}
     </div>
   </small>
-
 </content>
 {{ end }}
