@@ -1,20 +1,25 @@
 {{ define "main" }}
 <style>
   body { background-color: #f2f4ee !important; color: #2e4732 !important; }
-  a { color: #2e4732 !important; }
+  h1, h2, h3, h4, h5, h6, p, li, span, time { color: #2e4732 !important; }
+  a { color: #2e4732 !important; text-decoration: underline; }
+  hr { border-color: #d0d8c5; }
+  pre, code { background-color: #e3e8da !important; color: #2e4732 !important; }
 </style>
 <article>
-  <header>
-    <h1>{{ .Title }}</h1>
-    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 Jan, 2006" }}</time>
+  <header style="margin-bottom: 2rem;">
+    <h1 style="font-size: 1.8rem; margin-bottom: 0.5rem;">{{ .Title }}</h1>
+    <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: #5a7a5e !important; font-size: 0.9rem;">{{ .Date.Format "02 Jan, 2006" }}</time>
   </header>
-  <div class="content">
+  
+  <div class="content" style="line-height: 1.7;">
     {{ .Content }}
   </div>
+
   {{ with .Params.tags }}
-    <div style="margin-top: 2rem;">
+    <div style="margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #d0d8c5;">
       {{ range . }}
-        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" style="margin-right: 8px;">#{{ . }}</a>
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" style="margin-right: 10px; text-decoration: none;">#{{ . }}</a>
       {{ end }}
     </div>
   {{ end }}
