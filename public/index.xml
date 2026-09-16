@@ -10,15 +10,15 @@
 		
 		
 		
-			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 16 Sep 2026 17:40:00 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>My First Blog Post</title>
+				<title>你的文章标题</title>
 				<link>http://localhost:1313/test/</link>
-				<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 16 Sep 2026 17:40:00 +0800</pubDate>
 				<guid>http://localhost:1313/test/</guid>
-				<description>&lt;p&gt;Hello world! This is my first blog post on Hugo Bearblog.&lt;/p&gt;</description>
+				<description></description>
 			</item>
 			<item>
 				<title>Markdown</title>
