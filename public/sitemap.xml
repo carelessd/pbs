@@ -2,22 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/</loc>
-    <lastmod>2026-09-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/books/</loc>
+    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/digest/</loc>
     <lastmod>2026-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/journals/</loc>
-    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writer/</loc>
     <lastmod>2026-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/notes/</loc>
@@ -78,9 +72,6 @@
     <lastmod>2026-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cloudflare-page/</loc>
-    <lastmod>2026-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/podcast/</loc>
     <lastmod>2026-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/death/</loc>
