@@ -1,5 +1,7 @@
 ---
-title: "你的文章标题"
-date: 2026-09-16T17:40:00+08:00
+title: test
+date: 2026-09-16
 draft: false
 ---
+
+test
