@@ -1,7 +1,5 @@
 ---
-title: "My First Blog Post"
-date: 2026-09-16
-type: "post"
+title: "你的文章标题"
+date: 2026-09-16T17:40:00+08:00
+draft: false
 ---
-
-Hello world! This is my first blog post on Hugo Bearblog.
