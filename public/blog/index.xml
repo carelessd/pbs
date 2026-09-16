@@ -1,194 +1,191 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Blogs on Careless</title>
-		<link>http://localhost:1313/blog/</link>
-		<description>Recent content in Blogs on Careless</description>
-		<generator>Hugo</generator>
-		<language>en-US</language>
-		
-		
-		
-			<copyright>Copyright © 2020, Jane Doe.</copyright>
-		
-		
-			<lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Pagination is set up</title>
-				<link>http://localhost:1313/pagination-is-set-up/</link>
-				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/pagination-is-set-up/</guid>
-				<description>&lt;p&gt;Well done!&#xA;Pagination is configured.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Reading</title>
-				<link>http://localhost:1313/reading/</link>
-				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/reading/</guid>
-				<description>&lt;h2 id=&#34;-now-reading-trading-volatility&#34;&gt;📖 Now Reading: &amp;ldquo;Trading Volatility&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Due to mobile browser security restrictions, please click the link below to open or download the PDF directly in your browser:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Trading-Volatility.pdf&#34;&gt;📥 Click to Read Fullscreen / Download PDF&lt;/a&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Safe Passage</title>
-				<link>http://localhost:1313/safe-passage/</link>
-				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/safe-passage/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/613TMhedLOL._AC_SL1500_.jpg&#34; alt=&#34;Dr. Kori Schake&#xA;Safe Passage: The Transition from British to American Hegemony&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Safe Passage: The Transition from British to American Hegemony by Dr. Kori Schake&lt;/p&gt;&#xA;&lt;p&gt;History records only one peaceful transition of hegemonic power: the passage from British to American dominance of the international order. What made that transition uniquely cooperative and nonviolent? Does it offer lessons to guide policy as the United States faces its own challengers to the order it has enforced since the 1940s? To answer these questions, Kori Schake explores nine points of crisis or tension between Britain and the United States, from the Monroe Doctrine in 1823 to the establishment of the unequal “special relationship” during World War II.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Test</title>
-				<link>http://localhost:1313/test/</link>
-				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/test/</guid>
-				<description>&lt;p&gt;Test&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Fox</title>
-				<link>http://localhost:1313/fox/</link>
-				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/fox/</guid>
-				<description>&lt;h4 id=&#34;fox&#34;&gt;Fox&lt;/h4&gt;&#xA;&lt;p&gt;A good trader is like a fox lying motionless in the grass by a pond at night, waiting for a wild duck to come ashore — striking in the instant the duck steps onto land. Moving too early or too late means the hunt fails.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Risk Preference</title>
-				<link>http://localhost:1313/risk-preference/</link>
-				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/risk-preference/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260914-150102_Robinhood.png&#34; alt=&#34;Day-trading&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;屡战屡败，屡败屡战&lt;/p&gt;&#xA;&lt;p&gt;即使技术指标正确，也不能保证心态正确。&lt;/p&gt;&#xA;&lt;p&gt;所有交易员都要面对的终极心魔。行为经济学（前景理论）早有定论：&lt;/p&gt;&#xA;&lt;p&gt;​为什么亏损能死扛（风险偏好）： 只要没平仓，亏损就只是“浮亏”。你的大脑会本能地寻找任何支撑你扛下去的理由（“可能双底了”、“等个反抽保本就走”）。因为认赔出局意味着承认自己“错了”，人类的自尊心极度抗拒这种痛苦。&lt;/p&gt;&#xA;&lt;p&gt;​为什么盈利拿不住（风险厌恶）： 当账户变绿，哪怕只有几十块钱，你的大脑会极其渴望锁定这种“胜利”的快感。稍微一个风吹草动（比如 7631 的假突破），你害怕好不容易得来的利润又变成亏损，于是立刻按下平仓键。你卖出的不是期权，而是为了买心理上的“安全感”。&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Stride Toward Freedom, 1958</title>
-				<link>http://localhost:1313/stride-toward-freedom-1958/</link>
-				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/stride-toward-freedom-1958/</guid>
-				<description>&lt;p&gt;In the end, we will remember not the words of our enemies, but the silence of our friends.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Trading in the Zone</title>
-				<link>http://localhost:1313/trading-in-the-zone/</link>
-				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/trading-in-the-zone/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/trading-in-the-zone-master-the-market-with-confidence-discipline-and-a-winning-attitude.jpg&#34; alt=&#34;Trading in the Zone&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;道格拉斯的交易心理分析的五个事实&#34;&gt;道格拉斯的交易心理分析的五个事实：&lt;/h4&gt;&#xA;&lt;p&gt;​任何事情都可能发生： 市场由无数人的非理性情绪组成，你永远不可能完全掌控市场。哪怕技术形态再完美，下一秒依然可能突然出现极端反转。&lt;/p&gt;&#xA;&lt;p&gt;​赚钱不需要知道下一步会怎样： 职业交易员从不“预测”接下来的 5 分钟是涨是跌，他们只在有优势的信号出现时扣动扳机。&lt;/p&gt;&#xA;&lt;p&gt;​定义优势的信号，随机分布输赢： 即使你的策略胜率高达 70%，你也绝对不知道接下来的 10 笔交易里，哪 3 笔会亏损。这就是为什么你绝对不能全仓梭哈——因为你可能碰巧遇到那 3 笔随机的亏损。&lt;/p&gt;&#xA;&lt;p&gt;​优势只是概率较高，不代表确定： 进场只是因为向一个方向走的概率和赔率（EV）更好，而不是它“一定”会那样走。&lt;/p&gt;&#xA;&lt;p&gt;​市场的每一刻都是独一无二的： 昨天同样的形态暴跌了，不代表今天同样的形态也会暴跌。不要用上一笔交易的失败阴影，来干扰你当下这一笔客观的判断。&#xA;​&lt;/p&gt;&#xA;&lt;h4 id=&#34;用概率思维替代预测思维&#34;&gt;用“概率思维”替代“预测思维”&lt;/h4&gt;&#xA;&lt;p&gt;​散户（预测思维）： 总想证明自己是“对的”。一旦行情没有按自己的预测走，自尊心受挫，大脑就会开启防御机制，开始死扛亏损；一旦蒙对了，又急于兑现来证明自己的聪明，导致盈利拿不住。&#xA;​交易员（概率思维）： 接受每一笔交易都有可能是错的。在概率思维下，止损亏钱不再是“我错了”的耻辱，而是做生意的“正常经营成本”。就像赌场从不怕某一个赌客赢钱一样，只要概率和期望值在你这边，大数定律最终会让你赚钱。&lt;/p&gt;&#xA;&lt;h4 id=&#34;对亏损的恐惧造成的伤害远远大于亏损本身&#34;&gt;对亏损的恐惧，造成的伤害远远大于亏损本身。&lt;/h4&gt;&#xA;&lt;p&gt;道格拉斯指出，恐惧会让你在交易中彻底变形：&lt;/p&gt;&#xA;&lt;p&gt;​不敢开仓： 恐惧让你错过最佳的破位进场点，等行情走出来了才去追高。&#xA;​盈利拿不住： 恐惧利润回撤，让你在刚赚一点点钱时就急于平仓，寻求“落袋为安”的心理舒适区。&#xA;​亏损死扛： 恐惧面对真金白银变少的现实，导致你拒绝执行止损，硬生生把小亏拖成大亏。&#xA;​&lt;/p&gt;&#xA;&lt;h4 id=&#34;一致性的力量&#34;&gt;一致性的力量&lt;/h4&gt;&#xA;&lt;p&gt;为什么今天折腾了半天，方向看对了却没赚到钱？因为丧失了执行的一致性。在亏损时用的是“等等看”的鸵鸟策略，在盈利时用的是“赶紧跑”的恐慌策略。道格拉斯强调：执行的一致性，远胜过交易系统本身的质量。&lt;/p&gt;&#xA;&lt;h4 id=&#34;什么是真正的-trading-in-the-zone&#34;&gt;什么是真正的 Trading in the Zone？&lt;/h4&gt;&#xA;&lt;p&gt;把风险管理做好（比如改用迷你标普 XSP，单笔只冒 100 美金的险）之后，对每一笔交易的结果完全不再抱有任何情绪执念。不期待暴富，也不害怕亏损。只是平静地看着价格的跳动，像个没有感情的机器人一样，客观地阅读盘口流动性，机械地执行进出场规则。&#xA;​&#xA;阻碍赚钱的从来不是分析图表的能力，而是潜意识里对不确定性的恐惧。&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>付费意愿</title>
-				<link>http://localhost:1313/%E4%BB%98%E8%B4%B9%E6%84%8F%E6%84%BF/</link>
-				<pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/%E4%BB%98%E8%B4%B9%E6%84%8F%E6%84%BF/</guid>
-				<description>&lt;p&gt;中国用户不愿意付费，投资人急着变现，开发者马上会想收费，这是无解的逻辑闭环。&lt;/p&gt;&#xA;&lt;p&gt;于是适合中国国情的方式就出现，毫无底线的出卖隐私以获取免费服务的方式，以及接受被无限弹窗广告轰炸。&lt;/p&gt;&#xA;&lt;p&gt;有种感觉，国内的开发者环境就跟国内的健身房一样。&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Still not found my ideal blog platform.</title>
-				<link>http://localhost:1313/still-not-found-my-ideal-blog-platform./</link>
-				<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/still-not-found-my-ideal-blog-platform./</guid>
-				<description>&lt;p&gt;推荐博客平台，免费，不用自建服务器，全托管SaaS，严格保护隐私，开源，中国大陆也能访问，没有被墙，有安卓App或者能通过邮件写。&lt;/p&gt;&#xA;&lt;p&gt;不管哪国的，能app写或者能用邮件发博客，中国大陆能访问的, App 写 + 邮件发 + 大陆能访问，即使放松要求也没找到。&lt;/p&gt;&#xA;&lt;p&gt;Bearblog可以访问，但是只有Web，没有App跟邮件写，Storage只有100MB。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://transformer.bearblog.dev/&#34;&gt;https://transformer.bearblog.dev/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Notepin.co可以打开，但是没法App/Email写blogposts，没法发带link的内容及图片:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://careless.notepin.co&#34;&gt;https://careless.notepin.co&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Pagecord可以访问但很慢，可以邮件写，但是上传图片只能20张。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://careless.pagecord.com/&#34;&gt;https://careless.pagecord.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mataora没法访问，收费用户可以邮件写。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://careless.mataroa.blog/&#34;&gt;https://careless.mataroa.blog/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Write.as被墙了，但某些第三方可以访问，比如:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://writee.org/careless/&#34;&gt;https://writee.org/careless/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://write.c7.io/carelessly/&#34;&gt;https://write.c7.io/carelessly/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;图床有些也能打开，比如:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://catbox.moe/&#34;&gt;https://catbox.moe/&lt;/a&gt;&#xA;&lt;a href=&#34;https://img.remit.ee/en&#34;&gt;https://img.remit.ee/en&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Write.as偶尔也能打开，多数时候打不开，下面两个第三方实例也一样:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://write.as/careless/&#34;&gt;https://write.as/careless/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://paper.wf/careless/&#34;&gt;https://paper.wf/careless/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rant.li/careless/&#34;&gt;https://rant.li/careless/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Listed.to没法访问，虽然可以用Standard Notes写; Notesnook/Anytype/Craft.do可以打开，速度不快，基础功能不多，都主要收费，而且不是博客平台，每次都要生成链接; Upnote也可以生成，速度一般，有App; SimpleNote主站有时可以打开，但是它的短链接可以打开; Telegra.ph被墙了，而且每次都要生成链接; Write.as以前可以注册，现在已关闭，只有收费的，有App，没有邮件写。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://listed.to/@Carelessly&#34;&gt;https://listed.to/@Carelessly&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://app.notesnook.com/notes&#34;&gt;https://app.notesnook.com/notes&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://monogr.ph/&#34;&gt;https://monogr.ph/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://anytype.io/&#34;&gt;https://anytype.io/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://any.coop/AApCYiXJtTcCjat7AZ1xUPav5s7UPGTE5D8VTEnR9EqRwaYR/transformer&#34;&gt;https://any.coop/AApCYiXJtTcCjat7AZ1xUPav5s7UPGTE5D8VTEnR9EqRwaYR/transformer&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.craft.do/plan&#34;&gt;https://www.craft.do/plan&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://getupnote.com/share/notes/6Y6LL500lkVq16aszYaHIFjCcEZ2/01a05598-7666-7209-83a3-01ded6b74840&#34;&gt;https://getupnote.com/share/notes/6Y6LL500lkVq16aszYaHIFjCcEZ2/01a05598-7666-7209-83a3-01ded6b74840&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://app.simplenote.com/&#34;&gt;https://app.simplenote.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://simp.ly/&#34;&gt;http://simp.ly/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://telegra.ph/&#34;&gt;https://telegra.ph/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://write.as/&#34;&gt;https://write.as/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Blogger有App/Email写博客，Tumblr/WordPress/Substack/Medium/Ghost 也有App，但被大陆屏蔽了; teletype.in/Telescope.ac/Nyan-8可以打开:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://carelessd.blogspot.com/?m=1&#34;&gt;https://carelessd.blogspot.com/?m=1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tumblr.com/carelessw&#34;&gt;https://www.tumblr.com/carelessw&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://carelessk.wordpress.com&#34;&gt;http://carelessk.wordpress.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://careless39.wordpress.com/&#34;&gt;https://careless39.wordpress.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://carelessw.substack.com&#34;&gt;https://carelessw.substack.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://medium.com/&#34;&gt;https://medium.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://teletype.in/&#34;&gt;https://teletype.in/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://telescope.ac/Carelessly&#34;&gt;https://telescope.ac/Carelessly&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://editor.telescope.ac/&#34;&gt;https://editor.telescope.ac/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nyan-8.com/&#34;&gt;https://nyan-8.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ghost.org/&#34;&gt;https://ghost.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://carelessly.ghost.io&#34;&gt;https://carelessly.ghost.io&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Matters/Leaflet无法访问: &lt;a href=&#34;https://matters.town/featured&#34;&gt;https://matters.town/featured&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://about.leaflet.pub&#34;&gt;https://about.leaflet.pub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Notion.site可以打开，但是生成的链接有时候打不开:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://carelessly.notion.site/Transformer-3d824444630480258bb6c56d26818c47&#34;&gt;https://carelessly.notion.site/Transformer-3d824444630480258bb6c56d26818c47&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://carelessly.notion.site/&#34;&gt;https://carelessly.notion.site/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://app.notion.com/p/Test-3d8244446304808b8251fac7922c1494&#34;&gt;https://app.notion.com/p/Test-3d8244446304808b8251fac7922c1494&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;自建的CloudFlare Page + GitHub 生成的 Hugo博客配上没被封的域名就可以:&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Something else</title>
-				<link>http://localhost:1313/something-else/</link>
-				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/something-else/</guid>
-				<description>&lt;p&gt;止盈时优柔寡断，止损时犹豫不决。&lt;/p&gt;&#xA;&lt;p&gt;止盈时迅速出清，止损时死扛不退。&lt;/p&gt;&#xA;&lt;p&gt;看到机会不出手，不是机会乱出手。&lt;/p&gt;&#xA;&lt;p&gt;见小利而忘大义，失小利而乱投医。&lt;/p&gt;&#xA;&lt;p&gt;FOMO心态有毒，耐心等待不误读。&lt;/p&gt;&#xA;&lt;p&gt;垃圾时间去休息，首尾时间多留意。&lt;/p&gt;&#xA;&lt;p&gt;直觉判断要不得，指标判断少臆测。&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Cloudflare page</title>
-				<link>http://localhost:1313/cloudflare-page/</link>
-				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/cloudflare-page/</guid>
-				<description>&lt;p&gt;Cloudflare + GitHub 做了个Hugo博客，手机部署的，用的主要是Termux。&lt;/p&gt;&#xA;&lt;p&gt;用SimpleMarkdown/Obsidian跟Termux更新，代码主要是AI写的。&lt;/p&gt;&#xA;&lt;p&gt;感觉比以前做独立博客太简单太多，调试稍微花了点时间，但是还行。&lt;/p&gt;&#xA;&lt;p&gt;Cloudflare的主页没有被墙，有点意外。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://my-blog-4d3.pages.dev/posts/&#34;&gt;https://my-blog-4d3.pages.dev/posts/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;同时也部署了一个Vitepress的博客跟一个播客在Cloudflare Page。都是手机部署的，还挺简单，代码都是Gemini写的。&lt;/p&gt;&#xA;&lt;p&gt;图床的话用的主要是Remit跟免费申请的Cloudflare R2图床。&lt;/p&gt;&#xA;&lt;p&gt;其实现在提供类似服务的很多，bearblog，mataroa，pagecord，notion，listed，anytype，notesnook，upnote，writeas的一些实例，有些是只生成link，有些可以当博客用。nostr没有硬性字数限制，最近我发现nostr比mastodon用起来更方便，只是中文用户基数更小。&lt;/p&gt;&#xA;&lt;p&gt;如果要求不高，nostr本身就可以当成一个blog来用，混合博客跟微博，而且不用注册。&lt;/p&gt;&#xA;&lt;p&gt;尴尬的是相对保护隐私的开源的社区，人气就远不如审查严苛的社媒。&lt;/p&gt;&#xA;&lt;p&gt;建好之后大概给几十个独立博客主发了一些没有意义的email类似test/hi/transformer，没有附加自己的链接。主要好奇多少人回信，回复的寥寥无几。&lt;/p&gt;&#xA;&lt;p&gt;不知为何，建好之后突然丧失写东西的兴趣，有点买椟还珠的感觉。&lt;/p&gt;&#xA;&lt;p&gt;目前市面上已经有很多不错的全托SaaS，Bearblog就不错，lifetime一次性不到$200，但是考虑到半托管的cloudflare是免费的，实在找不到理由去买那些，而且Bearblog本身还提供免费blog服务，只是没有seo优化，只有基础的功能罢了。说到这里，感觉还是mataora更慷慨一些。&lt;/p&gt;&#xA;&lt;p&gt;SaaS全托管/半托管还是自建，主要还是看自己的需要，不过现在AI已经完全可以实现玩票性质的手机部署，也很简单。&#xA;重要的不是多漂亮的博客，而是最后你用这个博客写了多久。&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Podcast</title>
-				<link>http://localhost:1313/podcast/</link>
-				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/podcast/</guid>
-				<description>&lt;p&gt;Random: Test&lt;/p&gt;&#xA;&lt;p&gt;Episode webpage: &lt;a href=&#34;https://podcast-bzm.pages.dev&#34;&gt;https://podcast-bzm.pages.dev&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Media file: &lt;a href=&#34;https://podcast-bzm.pages.dev/test.m4a&#34;&gt;https://podcast-bzm.pages.dev/test.m4a&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Rss: &lt;a href=&#34;https://podcast-bzm.pages.dev/podcast.xml&#34;&gt;https://podcast-bzm.pages.dev/podcast.xml&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin-top: 20px; padding: 15px; background: #e6eae0; border-radius: 8px;&#34;&gt;&#xA;    &lt;span style=&#34;color: #2c3e35 !important; font-weight: bold; display: block; margin-bottom: 10px;&#34;&gt;🎙️ Podcast Episode Player&lt;/span&gt;&#xA;    &lt;audio controls style=&#34;width: 100%;&#34;&gt;&#xA;        &lt;source src=&#34;https://podcast-bzm.pages.dev/test.m4a&#34; type=&#34;audio/mp4&#34;&gt;&#xA;        Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;    &lt;p style=&#34;font-size: 14px; margin-top: 10px;&#34;&gt;&#xA;        &lt;a href=&#34;https://podcast-bzm.pages.dev&#34; target=&#34;_blank&#34;&gt;Visit Episode Webpage&lt;/a&gt; | &#xA;        &lt;a href=&#34;https://podcast-bzm.pages.dev/podcast.xml&#34; target=&#34;_blank&#34;&gt;Subscribe RSS Feed&lt;/a&gt;&#xA;    &lt;/p&gt;&#xA;&lt;/div&gt;</description>
-			</item>
-			<item>
-				<title>Death</title>
-				<link>http://localhost:1313/death/</link>
-				<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/death/</guid>
-				<description>&lt;hr&gt;&#xA;&lt;p&gt;有的时候想到死，你会不会恐惧，担心以及睡不着觉?&lt;/p&gt;&#xA;&lt;p&gt;对你而言，生而为人最重要的是什么？&lt;/p&gt;&#xA;&lt;p&gt;米兰昆德拉说，人类一思考，上帝就发笑。&lt;/p&gt;&#xA;&lt;p&gt;其实人类就算不思考，上帝也会发笑，这个世界早已足够荒谬可笑。&lt;/p&gt;&#xA;&lt;p&gt;太宰治说，生まれてすみません。&lt;/p&gt;&#xA;&lt;p&gt;很久以前完全无法理解为什么他几次三番都要自杀，难道这个世界就真的那么不值得他留恋？很多年后，似乎又逐渐变得可以理解，那种孤独，无处安放，就像找不到避风港的游魂，永远生活在别处，而答案却始终在风中，触不可及。&lt;/p&gt;&#xA;&lt;p&gt;不管贫富美丑，成功失败，至少截止到现在，对所有人来说，最公平的仍然是死。无论如何人总会死，在这一点来说至少平等，即使生前活着的质量大相径庭。&lt;/p&gt;&#xA;&lt;p&gt;明代文学家杨慎在《临江仙·滚滚长江东逝水》说，是非成败转头空，青山依旧在，几度夕阳红。&lt;/p&gt;&#xA;&lt;p&gt;日本战国时代名将蒲生氏乡在文禄四年（1595年）于京都伏见病逝，享年40岁。他的死偈是：&lt;/p&gt;&#xA;&lt;p&gt;“限りあれば 吹かねど花は 散るもの 心みじかき 春の山風”&lt;/p&gt;&#xA;&lt;p&gt;同样是日本战国时代，越前国名门大名、被织田信长击败并逼入绝境的朝仓义景，在天正元年（1573年）于贤松寺被叛变的表兄朝仓景镜逼迫切腹时，留下了著名的辞世诗：&lt;/p&gt;&#xA;&lt;p&gt;“七転八倒，四十年中，无他无自，四大本空。”&lt;/p&gt;&#xA;&lt;p&gt;每个人对待死的态度，在将死时的表现都大不相同，绝大部分人死的无声无息，仿佛从来没有在这世界存在过一样，有的人试图在世间留下一丝涟漪，却终不遂人愿。&lt;/p&gt;&#xA;&lt;p&gt;死到底是什么？残酷？美？虚无？恐惧？无奈？圆满？或者生的延续？&lt;/p&gt;&#xA;&lt;p&gt;Einmal ist keinmal。&lt;/p&gt;&#xA;&lt;p&gt;这句德国谚语的字面意思是“一次不算数”或“一次就是从来没有”。就是说：只发生过一次的事情，就如同压根没有发生过一样。&lt;/p&gt;&#xA;&lt;p&gt;这句话因为捷克作家米兰·昆德拉的小说《不能承受的生命之轻》（The Unbearable Lightness of Being）而广为人知。&lt;/p&gt;&#xA;&lt;p&gt;如果只能存在一次，那对于人们来说最重要的到底是什么？&lt;/p&gt;&#xA;&lt;p&gt;你是谁？你想要什么？该怎么得到？得到了以后就会满足吗？&lt;/p&gt;&#xA;&lt;p&gt;Arthur Schopenhauer说人生就像钟摆，欲望得到满足就会感觉无聊，欲望得不到满足就会感到痛苦；人生就像钟摆一样，始终在无聊与痛苦之间来回摇摆。&lt;/p&gt;&#xA;&lt;p&gt;To see a World in a Grain of Sand / And a Heaven in a Wild Flower / Hold Infinity in the palm of your hand / And Eternity in an hour. &amp;mdash; William Blake&lt;/p&gt;&#xA;&lt;p&gt;生，老，病，死；怨憎会，爱别离，求不得，五蕴取。人生终究是求之不得。&lt;/p&gt;&#xA;&lt;p&gt;如果刹那即永恒，于一念中解脱，当下即是。&lt;/p&gt;&#xA;&lt;p&gt;那么，何必在乎天长地久，曾经拥有已足够。&lt;/p&gt;&#xA;&lt;p&gt;回首向来萧瑟处，归去，也无风雨也无晴。&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Imagination</title>
-				<link>http://localhost:1313/imagination/</link>
-				<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/imagination/</guid>
-				<description>&lt;p&gt;幻觉&lt;/p&gt;&#xA;&lt;p&gt;樱花树下&lt;/p&gt;&#xA;&lt;p&gt;风轻划过你的刘海&lt;/p&gt;&#xA;&lt;p&gt;光谷地铁缓缓驶来&lt;/p&gt;&#xA;&lt;p&gt;载满回忆还是悔意？&lt;/p&gt;&#xA;&lt;p&gt;布莱克说，刹那即永恒&lt;/p&gt;&#xA;&lt;p&gt;你笑着说，何必要永恒？&lt;/p&gt;&#xA;&lt;p&gt;光谷广场，爱交错纵横&lt;/p&gt;&#xA;&lt;p&gt;那一刻，分不清&lt;/p&gt;&#xA;&lt;p&gt;是你温柔的呼吸，还是&lt;/p&gt;&#xA;&lt;p&gt;甜蜜的爱意&lt;/p&gt;&#xA;&lt;p&gt;光谷地铁在你眼里&lt;/p&gt;&#xA;&lt;p&gt;缓缓驶离&lt;/p&gt;&#xA;&lt;p&gt;你说，没什么永恒&lt;/p&gt;&#xA;&lt;p&gt;风再起时，樱花树下&lt;/p&gt;&#xA;&lt;p&gt;静静的陪伴即永恒&lt;/p&gt;&#xA;&lt;p&gt;那一刻，分不清&lt;/p&gt;&#xA;&lt;p&gt;在光谷广场，你是世界&lt;/p&gt;&#xA;&lt;p&gt;抑或世界是你？&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Rosemary</title>
-				<link>http://localhost:1313/rosemary/</link>
-				<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/rosemary/</guid>
-				<description>&lt;p&gt;迷迭香&lt;/p&gt;&#xA;&lt;p&gt;霎那间，蝴蝶振翅&lt;/p&gt;&#xA;&lt;p&gt;空气中，迷迭香气&lt;/p&gt;&#xA;&lt;p&gt;指引我走向你&lt;/p&gt;&#xA;&lt;p&gt;从白天到黑夜&lt;/p&gt;&#xA;&lt;p&gt;从海边到沙漠&lt;/p&gt;&#xA;&lt;p&gt;直到你心里&lt;/p&gt;&#xA;&lt;p&gt;那一刻，宇宙停止流动&lt;/p&gt;&#xA;&lt;p&gt;你说，相爱的人没有距离&lt;/p&gt;&#xA;&lt;p&gt;从我的眼里到你的心里&lt;/p&gt;&#xA;&lt;p&gt;蝴蝶振翅，跃进你我的心底&lt;/p&gt;&#xA;&lt;p&gt;那一刻，人潮不再汹涌&lt;/p&gt;&#xA;&lt;p&gt;你说，相爱的人怎会别离&lt;/p&gt;&#xA;&lt;p&gt;蝴蝶振翅，有迷迭香的讯息&lt;/p&gt;&#xA;&lt;p&gt;静谧中，你温柔地低语&lt;/p&gt;&#xA;&lt;p&gt;你说，宇宙正在流动&lt;/p&gt;&#xA;&lt;p&gt;在你的眼里和我的心底&lt;/p&gt;&#xA;&lt;p&gt;霎那间，蝴蝶振翅&lt;/p&gt;&#xA;&lt;p&gt;空气中，弥漫着迷迭香气&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Model</title>
-				<link>http://localhost:1313/model/</link>
-				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/model/</guid>
-				<description>&lt;p&gt;Transformer&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/IMG_20260911_183654_214.jpg&#34; alt=&#34;Transformer&#34;&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>2666 by Roberto Bolaño</title>
-				<link>http://localhost:1313/2666-by-roberto-bola%C3%B1o/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/2666-by-roberto-bola%C3%B1o/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/2666-1327x2048.jpg&#34; alt=&#34;2666 by Roberto Bolaño&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A cuatro profesores de literatura, Pelletier, Morini, Espinoza y Norton, los une su fascinación por la obra de Beno von Archimboldi, un enigmático escritor alemán cuyo prestigio crece en todo el mundo. La complicidad se vuelve vodevil intelectual y desemboca en un peregrinaje a Santa Teresa (trasunto de Ciudad Juárez), donde hay quien dice que Archimboldi ha sido visto. Ya allí, Pelletier y Espinoza se enteran de que la ciudad es desde años atrás escenario de una larga cadena de crímenes: en los vertederos aparecen cadáveres de mujeres con señales de haber sido violadas y torturadas. Es el primer asomo de la novela a sus procelosos caudales, repletos de personajes memorables cuyas historias, a caballo entre la risa y el horror, abarcan dos continentes e incluyen un vertiginoso travelling por la historia europea del siglo XX. 2666 confirma el veredicto de Susan Sontag: &amp;ldquo;el más influyente y admirado novelista en lengua española de su generación. Su muerte, a los cincuenta años, es una gran pérdida para la literatura&amp;rdquo;.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>All the Light We Cannot See by Anthony Doerr</title>
-				<link>http://localhost:1313/all-the-light-we-cannot-see-by-anthony-doerr/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/all-the-light-we-cannot-see-by-anthony-doerr/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/all-the-light-we-cannot-see-9781501173219_xlg.jpg&#34; alt=&#34;All the Light We Cannot See by Anthony Doerr&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Marie-Laure lives in Paris near the Museum of Natural History, where her father works. When she is twelve, the Nazis occupy Paris and father and daughter flee to the walled citadel of Saint-Malo, where Marie-Laure&amp;rsquo;s reclusive great uncle lives in a tall house by the sea. With them they carry what might be the museum&amp;rsquo;s most valuable and dangerous jewel.&lt;/p&gt;&#xA;&lt;p&gt;In a mining town in Germany, Werner Pfennig, an orphan, grows up with his younger sister, enchanted by a crude radio they find that brings them news and stories from places they have never seen or imagined. Werner becomes an expert at building and fixing these crucial new instruments and is enlisted to use his talent to track down the resistance. Deftly interweaving the lives of Marie-Laure and Werner, Doerr illuminates the ways, against all odds, people try to be good to one another.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Butterfly</title>
-				<link>http://localhost:1313/butterfly/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/butterfly/</guid>
-				<description>&lt;p&gt;butterfly&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/signal-2026-09-12-22-41-08-963.jpg&#34; alt=&#34;Transformer&#34;&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Dark Alliance The CIA, the Contras, and the Crack Cocaine Explosion by Gary Webb</title>
-				<link>http://localhost:1313/dark-alliance-the-cia-the-contras-and-the-crack-cocaine-explosion-by-gary-webb/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dark-alliance-the-cia-the-contras-and-the-crack-cocaine-explosion-by-gary-webb/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/9781609806217.jpg&#34; alt=&#34;Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion by Gary Webb&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Major Motion Picture based on Dark Alliance and starring Jeremy Renner, &amp;ldquo;Kill the Messenger,&amp;rdquo; to be be released in Fall 2014&lt;/p&gt;&#xA;&lt;p&gt;In August 1996, Pulitzer Prize-winning journalist Gary Webb stunned the world with a series of articles in the San Jose Mercury News reporting the results of his year-long investigation into the roots of the crack cocaine epidemic in America, specifically in Los Angeles. The series, titled “Dark Alliance,” revealed that for the better part of a decade, a Bay Area drug ring sold tons of cocaine to Los Angeles street gangs and funneled millions in drug profits to the CIA-backed Nicaraguan Contras.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>One Nation Under Blackmail</title>
-				<link>http://localhost:1313/one-nation-under-blackmail/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/one-nation-under-blackmail/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/81GE0343c%2BL._SL1500_.jpg&#34; alt=&#34;One Nation Under Blackmail, Vol. 1: The Sordid Union Between Intelligence and Crime that Gave Rise to Jeffrey Epstein by Whitney Alyse Webb&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/one-nation-under-blackmail-vol-1.jpg&#34; alt=&#34;One Nation Under Blackmail: The Sordid Union Between Intelligence and Organized Crime That Gave Rise to Jeffrey Epstein, Vol. 2 by Whitney Alyse Webb&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;One Nation Under Blackmail  is a damning indictment of the consequences resulting from the nearly century old relationship between both US and Israeli intelligence and the organized criminal network known as the National Crime Syndicate. This book specifically explores how that nexus between intelligence and organized crime directly developed the sexual blackmail tactics and networks that would later enable the sexual blackmail operation and other crimes of deceased pedophile and sex trafficker Jeffrey Epstein. Other books on Jeffrey Epstein focus on the depraved nature of his crimes, his wealth, and his most famous/politically-connected friends and acquaintances. This book, in contrast, reveals the extent to which Epstein’s activities were state-sponsored through an exploration of his intelligence connections.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Rise and Kill First by Ronen Bergman</title>
-				<link>http://localhost:1313/rise-and-kill-first-by-ronen-bergman/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/rise-and-kill-first-by-ronen-bergman/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Rise-and-Kill-First-Ronen-Bergman.jpg&#34; alt=&#34;Rise and Kill First by Ronen Bergman&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;NEW YORK TIMES BESTSELLER The first definitive history of Israel’s targeted killing programs, which have shaped the Israeli nation, the Middle East, and the larger world—from the man hailed by David Remnick as “arguably [Israel’s] best investigative reporter.”&lt;/p&gt;&#xA;&lt;p&gt;“An exceptional work, a humane book about an incendiary subject . . . full of shocking moments, surprising disturbances in a narrative full of fateful twists and unintended consequences.”—The New York Times&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The Franklin Cover-Up by John DeCamp</title>
-				<link>http://localhost:1313/the-franklin-cover-up-by-john-decamp/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/the-franklin-cover-up-by-john-decamp/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/71i21W6VGKL._AC_SL1500_.jpg&#34; alt=&#34;The Franklin Cover-Up by John DeCamp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The shut-down of Omaha, Nebraska&amp;rsquo;s Franklin Community Federal Credit Union, raided by federal agencies in November 1988, sent shock waves all the way to Washington, D.C. $40 million was missing. The credit union&amp;rsquo;s manager: Republican Party activist Lawrence E. &amp;ldquo;Larry&amp;rdquo; King, Jr., behind whose rise to fame and riches stood powerful figures in Nebraska politics and business, and in the nation&amp;rsquo;s capital.&lt;/p&gt;&#xA;&lt;p&gt;In the face of opposition from local and state law enforcement, from the FBI, and from the powerful Omaha World-Herald newspaper, a special Franklin committee of the Nebraska Legislature launched its own probe. What looked like a financial swindle, soon exploded into a hideous tale of drugs, Iran-Contra money-laundering, a nationwide child abuse ring, and ritual murder.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>What We Talk About When We Talk About Love Stories</title>
-				<link>http://localhost:1313/what-we-talk-about-when-we-talk-about-love-stories/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/what-we-talk-about-when-we-talk-about-love-stories/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/71eEjilZwCL._SL1200_.jpg&#34; alt=&#34;What We Talk About When We Talk About Love Stories&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The most celebrated story collection from “one of the true American masters” (The New York Review of Books)—a haunting meditation on love, loss, and companionship, and finding one’s way through the dark that includes the iconic and much-referenced title story featured in the Academy Award-winning film Birdman.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Raymond Carver&amp;rsquo;s America is &amp;hellip; clouded by pain and the loss of dreams, but it is not as fragile as it looks. It is a place of survivors and a place of stories&amp;hellip;. [Carver] has done what many of the most gifted writers fail to do: He has invented a country of his own, like no other except that very world, as Wordsworth said, which is the world to all of us.&amp;rdquo; —The New York Times Book Review&lt;/p&gt;</description>
-			</item>
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Careless</title><link>https://n.hieronymus.uk/blog/</link><description>Recent content in Blogs on Careless</description><generator>Hugo</generator><language>en-US</language><copyright>Copyright © 2020, Jane Doe.</copyright><lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://n.hieronymus.uk/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Pagination is set up</title><link>https://n.hieronymus.uk/pagination-is-set-up/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/pagination-is-set-up/</guid><description>&lt;p&gt;Well done!
+Pagination is configured.&lt;/p&gt;</description></item><item><title>Reading</title><link>https://n.hieronymus.uk/reading/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/reading/</guid><description>&lt;h2 id="-now-reading-trading-volatility"&gt;📖 Now Reading: &amp;ldquo;Trading Volatility&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Due to mobile browser security restrictions, please click the link below to open or download the PDF directly in your browser:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Trading-Volatility.pdf"&gt;📥 Click to Read Fullscreen / Download PDF&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Safe Passage</title><link>https://n.hieronymus.uk/safe-passage/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/safe-passage/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/613TMhedLOL._AC_SL1500_.jpg" alt="Dr. Kori Schake
+Safe Passage: The Transition from British to American Hegemony"&gt;&lt;/p&gt;
+&lt;p&gt;Safe Passage: The Transition from British to American Hegemony by Dr. Kori Schake&lt;/p&gt;
+&lt;p&gt;History records only one peaceful transition of hegemonic power: the passage from British to American dominance of the international order. What made that transition uniquely cooperative and nonviolent? Does it offer lessons to guide policy as the United States faces its own challengers to the order it has enforced since the 1940s? To answer these questions, Kori Schake explores nine points of crisis or tension between Britain and the United States, from the Monroe Doctrine in 1823 to the establishment of the unequal “special relationship” during World War II.&lt;/p&gt;</description></item><item><title>Test</title><link>https://n.hieronymus.uk/test/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/test/</guid><description>&lt;p&gt;Test&lt;/p&gt;</description></item><item><title>Fox</title><link>https://n.hieronymus.uk/fox/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/fox/</guid><description>&lt;h4 id="fox"&gt;Fox&lt;/h4&gt;
+&lt;p&gt;A good trader is like a fox lying motionless in the grass by a pond at night, waiting for a wild duck to come ashore — striking in the instant the duck steps onto land. Moving too early or too late means the hunt fails.&lt;/p&gt;</description></item><item><title>Risk Preference</title><link>https://n.hieronymus.uk/risk-preference/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/risk-preference/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260914-150102_Robinhood.png" alt="Day-trading"&gt;&lt;/p&gt;
+&lt;p&gt;屡战屡败，屡败屡战&lt;/p&gt;
+&lt;p&gt;即使技术指标正确，也不能保证心态正确。&lt;/p&gt;
+&lt;p&gt;所有交易员都要面对的终极心魔。行为经济学（前景理论）早有定论：&lt;/p&gt;
+&lt;p&gt;​为什么亏损能死扛（风险偏好）： 只要没平仓，亏损就只是“浮亏”。你的大脑会本能地寻找任何支撑你扛下去的理由（“可能双底了”、“等个反抽保本就走”）。因为认赔出局意味着承认自己“错了”，人类的自尊心极度抗拒这种痛苦。&lt;/p&gt;
+&lt;p&gt;​为什么盈利拿不住（风险厌恶）： 当账户变绿，哪怕只有几十块钱，你的大脑会极其渴望锁定这种“胜利”的快感。稍微一个风吹草动（比如 7631 的假突破），你害怕好不容易得来的利润又变成亏损，于是立刻按下平仓键。你卖出的不是期权，而是为了买心理上的“安全感”。&lt;/p&gt;</description></item><item><title>Stride Toward Freedom, 1958</title><link>https://n.hieronymus.uk/stride-toward-freedom-1958/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/stride-toward-freedom-1958/</guid><description>&lt;p&gt;In the end, we will remember not the words of our enemies, but the silence of our friends.&lt;/p&gt;</description></item><item><title>Trading in the Zone</title><link>https://n.hieronymus.uk/trading-in-the-zone/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/trading-in-the-zone/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/trading-in-the-zone-master-the-market-with-confidence-discipline-and-a-winning-attitude.jpg" alt="Trading in the Zone"&gt;&lt;/p&gt;
+&lt;h4 id="道格拉斯的交易心理分析的五个事实"&gt;道格拉斯的交易心理分析的五个事实：&lt;/h4&gt;
+&lt;p&gt;​任何事情都可能发生： 市场由无数人的非理性情绪组成，你永远不可能完全掌控市场。哪怕技术形态再完美，下一秒依然可能突然出现极端反转。&lt;/p&gt;
+&lt;p&gt;​赚钱不需要知道下一步会怎样： 职业交易员从不“预测”接下来的 5 分钟是涨是跌，他们只在有优势的信号出现时扣动扳机。&lt;/p&gt;
+&lt;p&gt;​定义优势的信号，随机分布输赢： 即使你的策略胜率高达 70%，你也绝对不知道接下来的 10 笔交易里，哪 3 笔会亏损。这就是为什么你绝对不能全仓梭哈——因为你可能碰巧遇到那 3 笔随机的亏损。&lt;/p&gt;
+&lt;p&gt;​优势只是概率较高，不代表确定： 进场只是因为向一个方向走的概率和赔率（EV）更好，而不是它“一定”会那样走。&lt;/p&gt;
+&lt;p&gt;​市场的每一刻都是独一无二的： 昨天同样的形态暴跌了，不代表今天同样的形态也会暴跌。不要用上一笔交易的失败阴影，来干扰你当下这一笔客观的判断。
+​&lt;/p&gt;
+&lt;h4 id="用概率思维替代预测思维"&gt;用“概率思维”替代“预测思维”&lt;/h4&gt;
+&lt;p&gt;​散户（预测思维）： 总想证明自己是“对的”。一旦行情没有按自己的预测走，自尊心受挫，大脑就会开启防御机制，开始死扛亏损；一旦蒙对了，又急于兑现来证明自己的聪明，导致盈利拿不住。
+​交易员（概率思维）： 接受每一笔交易都有可能是错的。在概率思维下，止损亏钱不再是“我错了”的耻辱，而是做生意的“正常经营成本”。就像赌场从不怕某一个赌客赢钱一样，只要概率和期望值在你这边，大数定律最终会让你赚钱。&lt;/p&gt;
+&lt;h4 id="对亏损的恐惧造成的伤害远远大于亏损本身"&gt;对亏损的恐惧，造成的伤害远远大于亏损本身。&lt;/h4&gt;
+&lt;p&gt;道格拉斯指出，恐惧会让你在交易中彻底变形：&lt;/p&gt;
+&lt;p&gt;​不敢开仓： 恐惧让你错过最佳的破位进场点，等行情走出来了才去追高。
+​盈利拿不住： 恐惧利润回撤，让你在刚赚一点点钱时就急于平仓，寻求“落袋为安”的心理舒适区。
+​亏损死扛： 恐惧面对真金白银变少的现实，导致你拒绝执行止损，硬生生把小亏拖成大亏。
+​&lt;/p&gt;
+&lt;h4 id="一致性的力量"&gt;一致性的力量&lt;/h4&gt;
+&lt;p&gt;为什么今天折腾了半天，方向看对了却没赚到钱？因为丧失了执行的一致性。在亏损时用的是“等等看”的鸵鸟策略，在盈利时用的是“赶紧跑”的恐慌策略。道格拉斯强调：执行的一致性，远胜过交易系统本身的质量。&lt;/p&gt;
+&lt;h4 id="什么是真正的-trading-in-the-zone"&gt;什么是真正的 Trading in the Zone？&lt;/h4&gt;
+&lt;p&gt;把风险管理做好（比如改用迷你标普 XSP，单笔只冒 100 美金的险）之后，对每一笔交易的结果完全不再抱有任何情绪执念。不期待暴富，也不害怕亏损。只是平静地看着价格的跳动，像个没有感情的机器人一样，客观地阅读盘口流动性，机械地执行进出场规则。
+​
+阻碍赚钱的从来不是分析图表的能力，而是潜意识里对不确定性的恐惧。&lt;/p&gt;</description></item><item><title>付费意愿</title><link>https://n.hieronymus.uk/%E4%BB%98%E8%B4%B9%E6%84%8F%E6%84%BF/</link><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/%E4%BB%98%E8%B4%B9%E6%84%8F%E6%84%BF/</guid><description>&lt;p&gt;中国用户不愿意付费，投资人急着变现，开发者马上会想收费，这是无解的逻辑闭环。&lt;/p&gt;
+&lt;p&gt;于是适合中国国情的方式就出现，毫无底线的出卖隐私以获取免费服务的方式，以及接受被无限弹窗广告轰炸。&lt;/p&gt;
+&lt;p&gt;有种感觉，国内的开发者环境就跟国内的健身房一样。&lt;/p&gt;</description></item><item><title>Still not found my ideal blog platform.</title><link>https://n.hieronymus.uk/still-not-found-my-ideal-blog-platform./</link><pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/still-not-found-my-ideal-blog-platform./</guid><description>&lt;p&gt;推荐博客平台，免费，不用自建服务器，全托管SaaS，严格保护隐私，开源，中国大陆也能访问，没有被墙，有安卓App或者能通过邮件写。&lt;/p&gt;
+&lt;p&gt;不管哪国的，能app写或者能用邮件发博客，中国大陆能访问的, App 写 + 邮件发 + 大陆能访问，即使放松要求也没找到。&lt;/p&gt;
+&lt;p&gt;Bearblog可以访问，但是只有Web，没有App跟邮件写，Storage只有100MB。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transformer.bearblog.dev/"&gt;https://transformer.bearblog.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Notepin.co可以打开，但是没法App/Email写blogposts，没法发带link的内容及图片:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://careless.notepin.co"&gt;https://careless.notepin.co&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pagecord可以访问但很慢，可以邮件写，但是上传图片只能20张。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://careless.pagecord.com/"&gt;https://careless.pagecord.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mataora没法访问，收费用户可以邮件写。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://careless.mataroa.blog/"&gt;https://careless.mataroa.blog/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Write.as被墙了，但某些第三方可以访问，比如:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://writee.org/careless/"&gt;https://writee.org/careless/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://write.c7.io/carelessly/"&gt;https://write.c7.io/carelessly/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;图床有些也能打开，比如:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://catbox.moe/"&gt;https://catbox.moe/&lt;/a&gt;
+&lt;a href="https://img.remit.ee/en"&gt;https://img.remit.ee/en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Write.as偶尔也能打开，多数时候打不开，下面两个第三方实例也一样:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://write.as/careless/"&gt;https://write.as/careless/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://paper.wf/careless/"&gt;https://paper.wf/careless/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rant.li/careless/"&gt;https://rant.li/careless/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Listed.to没法访问，虽然可以用Standard Notes写; Notesnook/Anytype/Craft.do可以打开，速度不快，基础功能不多，都主要收费，而且不是博客平台，每次都要生成链接; Upnote也可以生成，速度一般，有App; SimpleNote主站有时可以打开，但是它的短链接可以打开; Telegra.ph被墙了，而且每次都要生成链接; Write.as以前可以注册，现在已关闭，只有收费的，有App，没有邮件写。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://listed.to/@Carelessly"&gt;https://listed.to/@Carelessly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://app.notesnook.com/notes"&gt;https://app.notesnook.com/notes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://monogr.ph/"&gt;https://monogr.ph/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://anytype.io/"&gt;https://anytype.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://any.coop/AApCYiXJtTcCjat7AZ1xUPav5s7UPGTE5D8VTEnR9EqRwaYR/transformer"&gt;https://any.coop/AApCYiXJtTcCjat7AZ1xUPav5s7UPGTE5D8VTEnR9EqRwaYR/transformer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.craft.do/plan"&gt;https://www.craft.do/plan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://getupnote.com/share/notes/6Y6LL500lkVq16aszYaHIFjCcEZ2/01a05598-7666-7209-83a3-01ded6b74840"&gt;https://getupnote.com/share/notes/6Y6LL500lkVq16aszYaHIFjCcEZ2/01a05598-7666-7209-83a3-01ded6b74840&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://app.simplenote.com/"&gt;https://app.simplenote.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://simp.ly/"&gt;http://simp.ly/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://telegra.ph/"&gt;https://telegra.ph/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://write.as/"&gt;https://write.as/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Blogger有App/Email写博客，Tumblr/WordPress/Substack/Medium/Ghost 也有App，但被大陆屏蔽了; teletype.in/Telescope.ac/Nyan-8可以打开:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://carelessd.blogspot.com/?m=1"&gt;https://carelessd.blogspot.com/?m=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.tumblr.com/carelessw"&gt;https://www.tumblr.com/carelessw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://carelessk.wordpress.com"&gt;http://carelessk.wordpress.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://careless39.wordpress.com/"&gt;https://careless39.wordpress.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://carelessw.substack.com"&gt;https://carelessw.substack.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://medium.com/"&gt;https://medium.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://teletype.in/"&gt;https://teletype.in/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://telescope.ac/Carelessly"&gt;https://telescope.ac/Carelessly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://editor.telescope.ac/"&gt;https://editor.telescope.ac/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nyan-8.com/"&gt;https://nyan-8.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ghost.org/"&gt;https://ghost.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://carelessly.ghost.io"&gt;https://carelessly.ghost.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Matters/Leaflet无法访问: &lt;a href="https://matters.town/featured"&gt;https://matters.town/featured&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://about.leaflet.pub"&gt;https://about.leaflet.pub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Notion.site可以打开，但是生成的链接有时候打不开:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://carelessly.notion.site/Transformer-3d824444630480258bb6c56d26818c47"&gt;https://carelessly.notion.site/Transformer-3d824444630480258bb6c56d26818c47&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://carelessly.notion.site/"&gt;https://carelessly.notion.site/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://app.notion.com/p/Test-3d8244446304808b8251fac7922c1494"&gt;https://app.notion.com/p/Test-3d8244446304808b8251fac7922c1494&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;自建的CloudFlare Page + GitHub 生成的 Hugo博客配上没被封的域名就可以:&lt;/p&gt;</description></item><item><title>Something else</title><link>https://n.hieronymus.uk/something-else/</link><pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/something-else/</guid><description>&lt;p&gt;止盈时优柔寡断，止损时犹豫不决。&lt;/p&gt;
+&lt;p&gt;止盈时迅速出清，止损时死扛不退。&lt;/p&gt;
+&lt;p&gt;看到机会不出手，不是机会乱出手。&lt;/p&gt;
+&lt;p&gt;见小利而忘大义，失小利而乱投医。&lt;/p&gt;
+&lt;p&gt;FOMO心态有毒，耐心等待不误读。&lt;/p&gt;
+&lt;p&gt;垃圾时间去休息，首尾时间多留意。&lt;/p&gt;
+&lt;p&gt;直觉判断要不得，指标判断少臆测。&lt;/p&gt;</description></item><item><title>Cloudflare page</title><link>https://n.hieronymus.uk/cloudflare-page/</link><pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/cloudflare-page/</guid><description>&lt;p&gt;Cloudflare + GitHub 做了个Hugo博客，手机部署的，用的主要是Termux。&lt;/p&gt;
+&lt;p&gt;用SimpleMarkdown/Obsidian跟Termux更新，代码主要是AI写的。&lt;/p&gt;
+&lt;p&gt;感觉比以前做独立博客太简单太多，调试稍微花了点时间，但是还行。&lt;/p&gt;
+&lt;p&gt;Cloudflare的主页没有被墙，有点意外。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://my-blog-4d3.pages.dev/posts/"&gt;https://my-blog-4d3.pages.dev/posts/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;同时也部署了一个Vitepress的博客跟一个播客在Cloudflare Page。都是手机部署的，还挺简单，代码都是Gemini写的。&lt;/p&gt;
+&lt;p&gt;图床的话用的主要是Remit跟免费申请的Cloudflare R2图床。&lt;/p&gt;
+&lt;p&gt;其实现在提供类似服务的很多，bearblog，mataroa，pagecord，notion，listed，anytype，notesnook，upnote，writeas的一些实例，有些是只生成link，有些可以当博客用。nostr没有硬性字数限制，最近我发现nostr比mastodon用起来更方便，只是中文用户基数更小。&lt;/p&gt;
+&lt;p&gt;如果要求不高，nostr本身就可以当成一个blog来用，混合博客跟微博，而且不用注册。&lt;/p&gt;
+&lt;p&gt;尴尬的是相对保护隐私的开源的社区，人气就远不如审查严苛的社媒。&lt;/p&gt;
+&lt;p&gt;建好之后大概给几十个独立博客主发了一些没有意义的email类似test/hi/transformer，没有附加自己的链接。主要好奇多少人回信，回复的寥寥无几。&lt;/p&gt;
+&lt;p&gt;不知为何，建好之后突然丧失写东西的兴趣，有点买椟还珠的感觉。&lt;/p&gt;
+&lt;p&gt;目前市面上已经有很多不错的全托SaaS，Bearblog就不错，lifetime一次性不到$200，但是考虑到半托管的cloudflare是免费的，实在找不到理由去买那些，而且Bearblog本身还提供免费blog服务，只是没有seo优化，只有基础的功能罢了。说到这里，感觉还是mataora更慷慨一些。&lt;/p&gt;
+&lt;p&gt;SaaS全托管/半托管还是自建，主要还是看自己的需要，不过现在AI已经完全可以实现玩票性质的手机部署，也很简单。
+重要的不是多漂亮的博客，而是最后你用这个博客写了多久。&lt;/p&gt;</description></item><item><title>Podcast</title><link>https://n.hieronymus.uk/podcast/</link><pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/podcast/</guid><description>&lt;div style="background: #fff; border: 1px solid #eaeaea; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"&gt;
+ &lt;h3 style="text-align: center; margin-bottom: 10px;"&gt;🎙️ Podcast Player&lt;/h3&gt;
+ &lt;p style="text-align: center; color: #666; font-size: 14px;"&gt;Listen to your favorite podcast episodes.&lt;/p&gt;
+ &lt;audio controls style="width: 100%;"&gt;
+ &lt;source src="https://podcast-bzm.pages.dev/test.m4a" type="audio/mp4"&gt;
+ Your browser does not support the audio element.
+ &lt;/audio&gt;
+&lt;/div&gt;</description></item><item><title>Death</title><link>https://n.hieronymus.uk/death/</link><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/death/</guid><description>&lt;hr&gt;
+&lt;p&gt;有的时候想到死，你会不会恐惧，担心以及睡不着觉?&lt;/p&gt;
+&lt;p&gt;对你而言，生而为人最重要的是什么？&lt;/p&gt;
+&lt;p&gt;米兰昆德拉说，人类一思考，上帝就发笑。&lt;/p&gt;
+&lt;p&gt;其实人类就算不思考，上帝也会发笑，这个世界早已足够荒谬可笑。&lt;/p&gt;
+&lt;p&gt;太宰治说，生まれてすみません。&lt;/p&gt;
+&lt;p&gt;很久以前完全无法理解为什么他几次三番都要自杀，难道这个世界就真的那么不值得他留恋？很多年后，似乎又逐渐变得可以理解，那种孤独，无处安放，就像找不到避风港的游魂，永远生活在别处，而答案却始终在风中，触不可及。&lt;/p&gt;
+&lt;p&gt;不管贫富美丑，成功失败，至少截止到现在，对所有人来说，最公平的仍然是死。无论如何人总会死，在这一点来说至少平等，即使生前活着的质量大相径庭。&lt;/p&gt;
+&lt;p&gt;明代文学家杨慎在《临江仙·滚滚长江东逝水》说，是非成败转头空，青山依旧在，几度夕阳红。&lt;/p&gt;
+&lt;p&gt;日本战国时代名将蒲生氏乡在文禄四年（1595年）于京都伏见病逝，享年40岁。他的死偈是：&lt;/p&gt;
+&lt;p&gt;“限りあれば 吹かねど花は 散るもの 心みじかき 春の山風”&lt;/p&gt;
+&lt;p&gt;同样是日本战国时代，越前国名门大名、被织田信长击败并逼入绝境的朝仓义景，在天正元年（1573年）于贤松寺被叛变的表兄朝仓景镜逼迫切腹时，留下了著名的辞世诗：&lt;/p&gt;
+&lt;p&gt;“七転八倒，四十年中，无他无自，四大本空。”&lt;/p&gt;
+&lt;p&gt;每个人对待死的态度，在将死时的表现都大不相同，绝大部分人死的无声无息，仿佛从来没有在这世界存在过一样，有的人试图在世间留下一丝涟漪，却终不遂人愿。&lt;/p&gt;
+&lt;p&gt;死到底是什么？残酷？美？虚无？恐惧？无奈？圆满？或者生的延续？&lt;/p&gt;
+&lt;p&gt;Einmal ist keinmal。&lt;/p&gt;
+&lt;p&gt;这句德国谚语的字面意思是“一次不算数”或“一次就是从来没有”。就是说：只发生过一次的事情，就如同压根没有发生过一样。&lt;/p&gt;
+&lt;p&gt;这句话因为捷克作家米兰·昆德拉的小说《不能承受的生命之轻》（The Unbearable Lightness of Being）而广为人知。&lt;/p&gt;
+&lt;p&gt;如果只能存在一次，那对于人们来说最重要的到底是什么？&lt;/p&gt;
+&lt;p&gt;你是谁？你想要什么？该怎么得到？得到了以后就会满足吗？&lt;/p&gt;
+&lt;p&gt;Arthur Schopenhauer说人生就像钟摆，欲望得到满足就会感觉无聊，欲望得不到满足就会感到痛苦；人生就像钟摆一样，始终在无聊与痛苦之间来回摇摆。&lt;/p&gt;
+&lt;p&gt;To see a World in a Grain of Sand / And a Heaven in a Wild Flower / Hold Infinity in the palm of your hand / And Eternity in an hour. &amp;mdash; William Blake&lt;/p&gt;
+&lt;p&gt;生，老，病，死；怨憎会，爱别离，求不得，五蕴取。人生终究是求之不得。&lt;/p&gt;
+&lt;p&gt;如果刹那即永恒，于一念中解脱，当下即是。&lt;/p&gt;
+&lt;p&gt;那么，何必在乎天长地久，曾经拥有已足够。&lt;/p&gt;
+&lt;p&gt;回首向来萧瑟处，归去，也无风雨也无晴。&lt;/p&gt;</description></item><item><title>Imagination</title><link>https://n.hieronymus.uk/imagination/</link><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/imagination/</guid><description>&lt;p&gt;幻觉&lt;/p&gt;
+&lt;p&gt;樱花树下&lt;/p&gt;
+&lt;p&gt;风轻划过你的刘海&lt;/p&gt;
+&lt;p&gt;光谷地铁缓缓驶来&lt;/p&gt;
+&lt;p&gt;载满回忆还是悔意？&lt;/p&gt;
+&lt;p&gt;布莱克说，刹那即永恒&lt;/p&gt;
+&lt;p&gt;你笑着说，何必要永恒？&lt;/p&gt;
+&lt;p&gt;光谷广场，爱交错纵横&lt;/p&gt;
+&lt;p&gt;那一刻，分不清&lt;/p&gt;
+&lt;p&gt;是你温柔的呼吸，还是&lt;/p&gt;
+&lt;p&gt;甜蜜的爱意&lt;/p&gt;
+&lt;p&gt;光谷地铁在你眼里&lt;/p&gt;
+&lt;p&gt;缓缓驶离&lt;/p&gt;
+&lt;p&gt;你说，没什么永恒&lt;/p&gt;
+&lt;p&gt;风再起时，樱花树下&lt;/p&gt;
+&lt;p&gt;静静的陪伴即永恒&lt;/p&gt;
+&lt;p&gt;那一刻，分不清&lt;/p&gt;
+&lt;p&gt;在光谷广场，你是世界&lt;/p&gt;
+&lt;p&gt;抑或世界是你？&lt;/p&gt;</description></item><item><title>Rosemary</title><link>https://n.hieronymus.uk/rosemary/</link><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/rosemary/</guid><description>&lt;p&gt;迷迭香&lt;/p&gt;
+&lt;p&gt;霎那间，蝴蝶振翅&lt;/p&gt;
+&lt;p&gt;空气中，迷迭香气&lt;/p&gt;
+&lt;p&gt;指引我走向你&lt;/p&gt;
+&lt;p&gt;从白天到黑夜&lt;/p&gt;
+&lt;p&gt;从海边到沙漠&lt;/p&gt;
+&lt;p&gt;直到你心里&lt;/p&gt;
+&lt;p&gt;那一刻，宇宙停止流动&lt;/p&gt;
+&lt;p&gt;你说，相爱的人没有距离&lt;/p&gt;
+&lt;p&gt;从我的眼里到你的心里&lt;/p&gt;
+&lt;p&gt;蝴蝶振翅，跃进你我的心底&lt;/p&gt;
+&lt;p&gt;那一刻，人潮不再汹涌&lt;/p&gt;
+&lt;p&gt;你说，相爱的人怎会别离&lt;/p&gt;
+&lt;p&gt;蝴蝶振翅，有迷迭香的讯息&lt;/p&gt;
+&lt;p&gt;静谧中，你温柔地低语&lt;/p&gt;
+&lt;p&gt;你说，宇宙正在流动&lt;/p&gt;
+&lt;p&gt;在你的眼里和我的心底&lt;/p&gt;
+&lt;p&gt;霎那间，蝴蝶振翅&lt;/p&gt;
+&lt;p&gt;空气中，弥漫着迷迭香气&lt;/p&gt;</description></item><item><title>Model</title><link>https://n.hieronymus.uk/model/</link><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/model/</guid><description>&lt;p&gt;Transformer&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/IMG_20260911_183654_214.jpg" alt="Transformer"&gt;&lt;/p&gt;</description></item><item><title>2666 by Roberto Bolaño</title><link>https://n.hieronymus.uk/2666-by-roberto-bola%C3%B1o/</link><pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/2666-by-roberto-bola%C3%B1o/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/2666-1327x2048.jpg" alt="2666 by Roberto Bolaño"&gt;&lt;/p&gt;
+&lt;p&gt;A cuatro profesores de literatura, Pelletier, Morini, Espinoza y Norton, los une su fascinación por la obra de Beno von Archimboldi, un enigmático escritor alemán cuyo prestigio crece en todo el mundo. La complicidad se vuelve vodevil intelectual y desemboca en un peregrinaje a Santa Teresa (trasunto de Ciudad Juárez), donde hay quien dice que Archimboldi ha sido visto. Ya allí, Pelletier y Espinoza se enteran de que la ciudad es desde años atrás escenario de una larga cadena de crímenes: en los vertederos aparecen cadáveres de mujeres con señales de haber sido violadas y torturadas. Es el primer asomo de la novela a sus procelosos caudales, repletos de personajes memorables cuyas historias, a caballo entre la risa y el horror, abarcan dos continentes e incluyen un vertiginoso travelling por la historia europea del siglo XX. 2666 confirma el veredicto de Susan Sontag: &amp;ldquo;el más influyente y admirado novelista en lengua española de su generación. Su muerte, a los cincuenta años, es una gran pérdida para la literatura&amp;rdquo;.&lt;/p&gt;</description></item><item><title>All the Light We Cannot See by Anthony Doerr</title><link>https://n.hieronymus.uk/all-the-light-we-cannot-see-by-anthony-doerr/</link><pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/all-the-light-we-cannot-see-by-anthony-doerr/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/all-the-light-we-cannot-see-9781501173219_xlg.jpg" alt="All the Light We Cannot See by Anthony Doerr"&gt;&lt;/p&gt;
+&lt;p&gt;Marie-Laure lives in Paris near the Museum of Natural History, where her father works. When she is twelve, the Nazis occupy Paris and father and daughter flee to the walled citadel of Saint-Malo, where Marie-Laure&amp;rsquo;s reclusive great uncle lives in a tall house by the sea. With them they carry what might be the museum&amp;rsquo;s most valuable and dangerous jewel.&lt;/p&gt;
+&lt;p&gt;In a mining town in Germany, Werner Pfennig, an orphan, grows up with his younger sister, enchanted by a crude radio they find that brings them news and stories from places they have never seen or imagined. Werner becomes an expert at building and fixing these crucial new instruments and is enlisted to use his talent to track down the resistance. Deftly interweaving the lives of Marie-Laure and Werner, Doerr illuminates the ways, against all odds, people try to be good to one another.&lt;/p&gt;</description></item><item><title>Butterfly</title><link>https://n.hieronymus.uk/butterfly/</link><pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/butterfly/</guid><description>&lt;p&gt;butterfly&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/signal-2026-09-12-22-41-08-963.jpg" alt="Transformer"&gt;&lt;/p&gt;</description></item><item><title>Dark Alliance The CIA, the Contras, and the Crack Cocaine Explosion by Gary Webb</title><link>https://n.hieronymus.uk/dark-alliance-the-cia-the-contras-and-the-crack-cocaine-explosion-by-gary-webb/</link><pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/dark-alliance-the-cia-the-contras-and-the-crack-cocaine-explosion-by-gary-webb/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/9781609806217.jpg" alt="Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion by Gary Webb"&gt;&lt;/p&gt;
+&lt;p&gt;Major Motion Picture based on Dark Alliance and starring Jeremy Renner, &amp;ldquo;Kill the Messenger,&amp;rdquo; to be be released in Fall 2014&lt;/p&gt;
+&lt;p&gt;In August 1996, Pulitzer Prize-winning journalist Gary Webb stunned the world with a series of articles in the San Jose Mercury News reporting the results of his year-long investigation into the roots of the crack cocaine epidemic in America, specifically in Los Angeles. The series, titled “Dark Alliance,” revealed that for the better part of a decade, a Bay Area drug ring sold tons of cocaine to Los Angeles street gangs and funneled millions in drug profits to the CIA-backed Nicaraguan Contras.&lt;/p&gt;</description></item><item><title>One Nation Under Blackmail</title><link>https://n.hieronymus.uk/one-nation-under-blackmail/</link><pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/one-nation-under-blackmail/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/81GE0343c%2BL._SL1500_.jpg" alt="One Nation Under Blackmail, Vol. 1: The Sordid Union Between Intelligence and Crime that Gave Rise to Jeffrey Epstein by Whitney Alyse Webb"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/one-nation-under-blackmail-vol-1.jpg" alt="One Nation Under Blackmail: The Sordid Union Between Intelligence and Organized Crime That Gave Rise to Jeffrey Epstein, Vol. 2 by Whitney Alyse Webb"&gt;&lt;/p&gt;
+&lt;p&gt;One Nation Under Blackmail is a damning indictment of the consequences resulting from the nearly century old relationship between both US and Israeli intelligence and the organized criminal network known as the National Crime Syndicate. This book specifically explores how that nexus between intelligence and organized crime directly developed the sexual blackmail tactics and networks that would later enable the sexual blackmail operation and other crimes of deceased pedophile and sex trafficker Jeffrey Epstein. Other books on Jeffrey Epstein focus on the depraved nature of his crimes, his wealth, and his most famous/politically-connected friends and acquaintances. This book, in contrast, reveals the extent to which Epstein’s activities were state-sponsored through an exploration of his intelligence connections.&lt;/p&gt;</description></item><item><title>Rise and Kill First by Ronen Bergman</title><link>https://n.hieronymus.uk/rise-and-kill-first-by-ronen-bergman/</link><pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/rise-and-kill-first-by-ronen-bergman/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Rise-and-Kill-First-Ronen-Bergman.jpg" alt="Rise and Kill First by Ronen Bergman"&gt;&lt;/p&gt;
+&lt;p&gt;NEW YORK TIMES BESTSELLER The first definitive history of Israel’s targeted killing programs, which have shaped the Israeli nation, the Middle East, and the larger world—from the man hailed by David Remnick as “arguably [Israel’s] best investigative reporter.”&lt;/p&gt;
+&lt;p&gt;“An exceptional work, a humane book about an incendiary subject . . . full of shocking moments, surprising disturbances in a narrative full of fateful twists and unintended consequences.”—The New York Times&lt;/p&gt;</description></item><item><title>The Franklin Cover-Up by John DeCamp</title><link>https://n.hieronymus.uk/the-franklin-cover-up-by-john-decamp/</link><pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/the-franklin-cover-up-by-john-decamp/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/71i21W6VGKL._AC_SL1500_.jpg" alt="The Franklin Cover-Up by John DeCamp"&gt;&lt;/p&gt;
+&lt;p&gt;The shut-down of Omaha, Nebraska&amp;rsquo;s Franklin Community Federal Credit Union, raided by federal agencies in November 1988, sent shock waves all the way to Washington, D.C. $40 million was missing. The credit union&amp;rsquo;s manager: Republican Party activist Lawrence E. &amp;ldquo;Larry&amp;rdquo; King, Jr., behind whose rise to fame and riches stood powerful figures in Nebraska politics and business, and in the nation&amp;rsquo;s capital.&lt;/p&gt;
+&lt;p&gt;In the face of opposition from local and state law enforcement, from the FBI, and from the powerful Omaha World-Herald newspaper, a special Franklin committee of the Nebraska Legislature launched its own probe. What looked like a financial swindle, soon exploded into a hideous tale of drugs, Iran-Contra money-laundering, a nationwide child abuse ring, and ritual murder.&lt;/p&gt;</description></item><item><title>What We Talk About When We Talk About Love Stories</title><link>https://n.hieronymus.uk/what-we-talk-about-when-we-talk-about-love-stories/</link><pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate><guid>https://n.hieronymus.uk/what-we-talk-about-when-we-talk-about-love-stories/</guid><description>&lt;p&gt;&lt;img src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/71eEjilZwCL._SL1200_.jpg" alt="What We Talk About When We Talk About Love Stories"&gt;&lt;/p&gt;
+&lt;p&gt;The most celebrated story collection from “one of the true American masters” (The New York Review of Books)—a haunting meditation on love, loss, and companionship, and finding one’s way through the dark that includes the iconic and much-referenced title story featured in the Academy Award-winning film Birdman.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Raymond Carver&amp;rsquo;s America is &amp;hellip; clouded by pain and the loss of dreams, but it is not as fragile as it looks. It is a place of survivors and a place of stories&amp;hellip;. [Carver] has done what many of the most gifted writers fail to do: He has invented a country of his own, like no other except that very world, as Wordsworth said, which is the world to all of us.&amp;rdquo; —The New York Times Book Review&lt;/p&gt;</description></item></channel></rss>
