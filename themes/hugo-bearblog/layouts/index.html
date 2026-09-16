@@ -1,3 +1,82 @@
 {{ define "main" }}
-{{ .Content }}
+<main>
+    {{ .Content }}
+    
+    <!-- 直接集成在首页的 EPUB 本地上传阅读组件 -->
+    <div style="margin-bottom: 2.5rem; padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 8px; text-align: center; background: #fafafa;">
+      <p style="margin-bottom: 8px; font-weight: bold; color: #333;">📖 EPUB Reader</p>
+      <p style="font-size: 0.9em; color: #666; margin-bottom: 12px;">Choose a local EPUB book from your device to start reading instantly.</p>
+      
+      <label style="display: inline-block; padding: 8px 16px; background: #222; color: #fff; border-radius: 5px; cursor: pointer; font-size: 0.9em;">
+        📂 Upload & Read <input type="file" id="home-file-input" accept=".epub" style="display: none;">
+      </label>
+    </div>
+
+    <!-- 嵌入式阅读器展示区域（选择文件后会自动在这里展开） -->
+    <div id="home-viewer-container" style="display: none; margin-bottom: 2.5rem; border: 1px solid #e5e7eb; border-radius: 8px; background: #fff; overflow: hidden;">
+        <div id="viewer" style="width: 100%; height: 500px;"></div>
+        <div style="padding: 10px; text-align: center; background: #f9f9f9; border-top: 1px solid #e5e7eb;">
+            <button id="prev-btn" style="background: #222; color: #fff; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer; margin-right: 10px;">‹ Prev</button>
+            <button id="next-btn" style="background: #222; color: #fff; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer;">Next ›</button>
+        </div>
+    </div>
+
+    <!-- 博客文章列表 -->
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+    {{ range $paginator.Pages }}
+        <article>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <small>{{ .Date.Format "02 Jan, 2006" }}</small>
+        </article>
+    {{ end }}
+
+    <!-- 分页 -->
+    {{ if gt $paginator.TotalPages 1 }}
+    <div class="pagination">
+        {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}">« Prev</a>
+        {{ end }}
+        <span>{{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}</span>
+        {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}">Next »</a>
+        {{ end }}
+    </div>
+    {{ end }}
+</main>
+
+<!-- 引入 Epub.js 核心库以支持首页直接渲染 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js"></script>
+<script>
+    let book = null;
+    let rendition = null;
+
+    document.getElementById('home-file-input').addEventListener('change', function(e) {
+        let file = e.target.files[0];
+        if (!file) return;
+
+        // 显示阅读器容器
+        document.getElementById('home-viewer-container').style.display = 'block';
+
+        let reader = new FileReader();
+        reader.onload = function(event) {
+            let arrayBuffer = event.target.result;
+            if (book) book.destroy();
+            
+            document.getElementById('viewer').innerHTML = '';
+            book = ePub(arrayBuffer);
+            rendition = book.renderTo("viewer", { width: "100%", height: "100%" });
+            rendition.display();
+        };
+        reader.readAsArrayBuffer(file);
+    });
+
+    document.getElementById('prev-btn').addEventListener('click', function() {
+        if (rendition) rendition.prev();
+    });
+
+    document.getElementById('next-btn').addEventListener('click', function() {
+        if (rendition) rendition.next();
+    });
+</script>
 {{ end }}
