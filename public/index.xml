@@ -42,13 +42,6 @@
 				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/613TMhedLOL._AC_SL1500_.jpg&#34; alt=&#34;Dr. Kori Schake&#xA;Safe Passage: The Transition from British to American Hegemony&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Safe Passage: The Transition from British to American Hegemony by Dr. Kori Schake&lt;/p&gt;&#xA;&lt;p&gt;History records only one peaceful transition of hegemonic power: the passage from British to American dominance of the international order. What made that transition uniquely cooperative and nonviolent? Does it offer lessons to guide policy as the United States faces its own challengers to the order it has enforced since the 1940s? To answer these questions, Kori Schake explores nine points of crisis or tension between Britain and the United States, from the Monroe Doctrine in 1823 to the establishment of the unequal “special relationship” during World War II.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Test</title>
-				<link>http://localhost:1313/0915/</link>
-				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/0915/</guid>
-				<description>&lt;p&gt;Test&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Fox</title>
 				<link>http://localhost:1313/fox/</link>
 				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
@@ -127,9 +120,9 @@
 			</item>
 			<item>
 				<title>Model</title>
-				<link>http://localhost:1313/1-model-/</link>
+				<link>http://localhost:1313/model-/</link>
 				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/1-model-/</guid>
+				<guid>http://localhost:1313/model-/</guid>
 				<description>&lt;p&gt;Transformer&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/IMG_20260911_183654_214.jpg&#34; alt=&#34;Transformer&#34;&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
@@ -173,6 +166,13 @@
 				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/rise-and-kill-first-by-ronen-bergman/</guid>
 				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Rise-and-Kill-First-Ronen-Bergman.jpg&#34; alt=&#34;Rise and Kill First by Ronen Bergman&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;NEW YORK TIMES BESTSELLER The first definitive history of Israel’s targeted killing programs, which have shaped the Israeli nation, the Middle East, and the larger world—from the man hailed by David Remnick as “arguably [Israel’s] best investigative reporter.”&lt;/p&gt;&#xA;&lt;p&gt;“An exceptional work, a humane book about an incendiary subject . . . full of shocking moments, surprising disturbances in a narrative full of fateful twists and unintended consequences.”—The New York Times&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Test</title>
+				<link>http://localhost:1313/1-test/</link>
+				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/1-test/</guid>
+				<description>&lt;p&gt;Test&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Franklin Cover-Up by John DeCamp</title>

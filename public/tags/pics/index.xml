@@ -15,9 +15,9 @@
 			<atom:link href="http://localhost:1313/tags/pics/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Model</title>
-				<link>http://localhost:1313/1-model-/</link>
+				<link>http://localhost:1313/model-/</link>
 				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/1-model-/</guid>
+				<guid>http://localhost:1313/model-/</guid>
 				<description>&lt;p&gt;Transformer&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/IMG_20260911_183654_214.jpg&#34; alt=&#34;Transformer&#34;&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
