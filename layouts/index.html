@@ -2,7 +2,15 @@
 <style>
   body { background-color: #f2f4ee !important; color: #2e4732 !important; }
   a { color: #2e4732 !important; }
+  /* 让阅读器、iframe或书籍展示容器撑满正常宽度 */
+  iframe, .reader-container, embed {
+    width: 100% !important;
+    height: 80vh !important;
+    border: none !important;
+    background-color: #f2f4ee !important;
+  }
 </style>
+
   {{ $paginator := .Paginate .Site.RegularPages 15 }}
   <ul style="list-style-type: none; padding-left: 0;">
     {{ range $paginator.Pages }}
