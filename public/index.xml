@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Added EBook Reader/Markdown Writer/Podcast Player to my blog.</title>
+				<link>http://localhost:1313/settings/</link>
+				<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/settings/</guid>
+				<description>&lt;p&gt;I spent quite a while dealing with the settings for this stuff, but I finally got it - all the code was written by Gemini.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Pagination is set up</title>
 				<link>http://localhost:1313/pagination-is-complete/</link>
