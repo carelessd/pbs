@@ -12,9 +12,16 @@
 			<copyright>Copyright © 2020, Jane Doe.</copyright>
 		
 		
-			<lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Blog Post</title>
+				<link>http://localhost:1313/posts/test/</link>
+				<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/test/</guid>
+				<description>&lt;p&gt;Hello world! This is my first blog post on Hugo Bearblog.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Markdown</title>
 				<link>http://localhost:1313/writer/</link>

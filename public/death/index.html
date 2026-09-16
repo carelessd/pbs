@@ -366,6 +366,115 @@ To see a World in a Grain of Sand / And a Heaven in a Wild Flower / Hold Infinit
   <footer><p>
   Made with <a href="https://gohugo.io/">Hugo</a> ʕ•ᴥ•ʔ <a href="https://github.com/janraasch/hugo-bearblog/">Bear</a>
 </p>
+
+
+<div style="margin-top: 2.5rem; margin-bottom: 2rem; padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 8px; text-align: center; background: #fafafa;">
+  <p style="margin-bottom: 8px; font-weight: bold; color: #333;">📖 EPUB Reader</p>
+  <p style="font-size: 0.9em; color: #666; margin-bottom: 12px;">Choose a local EPUB book from your device to start reading instantly.</p>
+  
+  <label style="display: inline-block; padding: 8px 16px; background: #222; color: #fff; border-radius: 5px; cursor: pointer; font-size: 0.9em;">
+    📂 Upload & Read <input type="file" id="home-file-input" accept=".epub" style="display: none;">
+  </label>
+</div>
+
+
+<div id="home-viewer-container" style="display: none; margin-bottom: 2.5rem; border: 1px solid #e5e7eb; border-radius: 8px; background: #fff; overflow: hidden;">
+    <div id="viewer" style="width: 100%; height: 500px;"></div>
+    <div style="padding: 10px; text-align: center; background: #f9f9f9; border-top: 1px solid #e5e7eb;">
+        <button id="prev-btn" style="background: #222; color: #fff; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer; margin-right: 10px;">‹ Prev</button>
+        <button id="next-btn" style="background: #222; color: #fff; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer;">Next ›</button>
+    </div>
+</div>
+
+
+<div style="margin-top: 2.5rem; margin-bottom: 2rem; padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; text-align: center;">
+  <p style="margin-bottom: 8px; font-weight: bold; color: #333;">🎙️ Podcast Player</p>
+  <p style="font-size: 0.9em; color: #666; margin-bottom: 12px;">Listen to your favorite podcast episodes.</p>
+  
+  <audio id="podcast-audio" controls style="width: 100%; max-width: 500px; margin-bottom: 10px;">
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  
+  <div style="font-size: 0.85em; color: #777;">
+    <span>Now Playing: Sample Podcast Episode</span>
+  </div>
+</div>
+
+
+<div style="margin-top: 2.5rem; margin-bottom: 2.5rem; padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa; text-align: left;">
+  <p style="margin-bottom: 8px; font-weight: bold; color: #333; text-align: center;">📝 Markdown Scratchpad</p>
+  <p style="font-size: 0.9em; color: #666; margin-bottom: 12px; text-align: center;">Type or paste raw Markdown below to preview instantly.</p>
+  
+  <textarea id="markdown-input" placeholder="Type Markdown here (e.g. # Hello World)..." style="width: 100%; height: 120px; padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-family: monospace; font-size: 0.9em; box-sizing: border-box; margin-bottom: 10px;"></textarea>
+  
+  <div style="font-weight: bold; font-size: 0.85em; color: #555; margin-bottom: 5px;">Preview:</div>
+  <div id="markdown-preview" style="padding: 10px; background: #fff; border: 1px solid #ddd; border-radius: 4px; min-height: 80px; font-size: 0.95em;"></div>
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<script>
+    
+    let book = null;
+    let rendition = null;
+
+    let fileInput = document.getElementById('home-file-input');
+    if (fileInput) {
+        fileInput.addEventListener('change', function(e) {
+            let file = e.target.files[0];
+            if (!file) return;
+
+            document.getElementById('home-viewer-container').style.display = 'block';
+
+            let reader = new FileReader();
+            reader.onload = function(event) {
+                let arrayBuffer = event.target.result;
+                if (book) book.destroy();
+                
+                document.getElementById('viewer').innerHTML = '';
+                book = ePub(arrayBuffer);
+                rendition = book.renderTo("viewer", { width: "100%", height: "100%" });
+                rendition.display();
+            };
+            reader.readAsArrayBuffer(file);
+        });
+    }
+
+    let prevBtn = document.getElementById('prev-btn');
+    if (prevBtn) {
+        prevBtn.addEventListener('click', function() {
+            if (rendition) rendition.prev();
+        });
+    }
+
+    let nextBtn = document.getElementById('next-btn');
+    if (nextBtn) {
+        nextBtn.addEventListener('click', function() {
+            if (rendition) rendition.next();
+        });
+    }
+
+    
+    let mdInput = document.getElementById('markdown-input');
+    let mdPreview = document.getElementById('markdown-preview');
+    if (mdInput && mdPreview) {
+        let savedMd = localStorage.getItem('scratchpad_md');
+        if (savedMd) {
+            mdInput.value = savedMd;
+            mdPreview.innerHTML = marked.parse(savedMd);
+        }
+
+        mdInput.addEventListener('input', function() {
+            let val = mdInput.value;
+            mdPreview.innerHTML = marked.parse(val);
+            localStorage.setItem('scratchpad_md', val);
+        });
+    }
+</script>
 </footer>
 
   
