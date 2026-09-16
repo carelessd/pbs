@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Reading on Careless</title>
+		<link>http://localhost:1313/tags/reading/</link>
+		<description>Recent content in Reading on Careless</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reading</title>
+				<link>http://localhost:1313/reading/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/reading/</guid>
+				<description>&lt;h2 id=&#34;-now-reading-trading-volatility&#34;&gt;📖 Now Reading: &amp;ldquo;Trading Volatility&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Due to mobile browser security restrictions, please click the link below to open or download the PDF directly in your browser:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Trading-Volatility.pdf&#34;&gt;📥 Click to Read Fullscreen / Download PDF&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

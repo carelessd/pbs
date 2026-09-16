@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Careless</title>
+		<link>http://localhost:1313/tags/</link>
+		<description>Recent content in Tags on Careless</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Books</title>
+				<link>http://localhost:1313/tags/books/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/books/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Digest</title>
+				<link>http://localhost:1313/tags/digest/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/digest/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Journals</title>
+				<link>http://localhost:1313/tags/journals/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/journals/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Notes</title>
+				<link>http://localhost:1313/tags/notes/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/notes/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reading</title>
+				<link>http://localhost:1313/tags/reading/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/reading/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tests</title>
+				<link>http://localhost:1313/tags/tests/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/tests/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Option</title>
+				<link>http://localhost:1313/tags/option/</link>
+				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/option/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Quote</title>
+				<link>http://localhost:1313/tags/quote/</link>
+				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/quote/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Thoughts</title>
+				<link>http://localhost:1313/tags/thoughts/</link>
+				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/thoughts/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Trading</title>
+				<link>http://localhost:1313/tags/trading/</link>
+				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/trading/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Writings</title>
+				<link>http://localhost:1313/tags/writings/</link>
+				<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/writings/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pics</title>
+				<link>http://localhost:1313/tags/pics/</link>
+				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/pics/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
