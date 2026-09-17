@@ -19,3 +19,7 @@ body { background-color: #f2f4ee; color: #2d4a22 !important; } a { color: #2d4a2
   line-height: 1.4 !important; 
   min-width: 0 !important; 
 }
+/* 终极对齐代码 */
+.blog-posts li { display: flex !important; align-items: flex-start !important; margin-bottom: 1rem !important; gap: 10px !important; }
+.blog-posts li > span, .blog-posts li > time { flex: 0 0 110px !important; display: block !important; white-space: nowrap !important; }
+.blog-posts li > a { flex: 1 1 auto !important; display: block !important; line-height: 1.4 !important; min-width: 0 !important; }
