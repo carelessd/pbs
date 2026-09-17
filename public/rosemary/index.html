@@ -270,7 +270,32 @@
   }
 
 </style>
-<style>body { background-color: #e3edcd !important; color: #2d4a22 !important; } a { color: #2d4a22 !important; }</style>
+<style>
+ 
+main ul li, ul li {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 14px !important;
+}
+main ul li > span, ul li > span {
+  flex: 0 0 110px !important;
+  display: inline-block !important;
+  white-space: nowrap !important;
+}
+main ul li > a, ul li > a {
+  flex: 1 1 auto !important;
+  display: inline-block !important;
+  min-width: 0 !important;
+  text-align: left !important;
+}
+
+ 
+div.content, div.content p {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  text-align-last: left !important;
+}
+</style>
 </head>
 
 <body>
