@@ -1,0 +1,26 @@
+<style>
+/* 首页列表分列：第二行标题与第一行严格垂直左对齐，不延展到日期下方 */
+main ul li, ul li {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 14px !important;
+}
+main ul li > span, ul li > span {
+  flex: 0 0 110px !important;
+  display: inline-block !important;
+  white-space: nowrap !important;
+}
+main ul li > a, ul li > a {
+  flex: 1 1 auto !important;
+  display: inline-block !important;
+  min-width: 0 !important;
+  text-align: left !important;
+}
+
+/* 正文段落强制英文两端严格拉齐 */
+div.content, div.content p {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  text-align-last: left !important;
+}
+</style>
