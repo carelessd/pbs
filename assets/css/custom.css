@@ -1,6 +1,0 @@
-body > h1:first-of-type, header + h1 { display: none !important; }
-ul { padding-left: 0 !important; list-style: none !important; }
-li, li > a { display: flex !important; align-items: flex-start !important; gap: 15px !important; }
-li { margin-bottom: 1rem !important; }
-li span, li time { flex-shrink: 0 !important; width: 110px !important; display: block !important; white-space: nowrap !important; }
-li > a { flex: 1 !important; line-height: 1.4 !important; min-width: 0 !important; }
