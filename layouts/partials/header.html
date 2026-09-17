@@ -1,0 +1,7 @@
+<header>
+  <nav>
+    {{ range .Site.Menus.main }}
+    <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+    {{ end }}
+  </nav>
+</header>
