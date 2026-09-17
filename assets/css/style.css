@@ -1,0 +1,21 @@
+body { background-color: #f2f4ee; color: #2d4a22 !important; } a { color: #2d4a22 !important; }
+
+/* === 强制对齐文章列表 === */
+.blog-posts li { 
+  display: flex !important; 
+  align-items: flex-start !important; 
+  gap: 15px !important; 
+  margin-bottom: 1rem !important; 
+}
+.blog-posts li > span { 
+  flex-shrink: 0 !important; 
+  width: 110px !important; 
+  display: block !important; 
+  white-space: nowrap !important; 
+}
+.blog-posts li > a { 
+  flex: 1 !important; 
+  display: block !important; 
+  line-height: 1.4 !important; 
+  min-width: 0 !important; 
+}
