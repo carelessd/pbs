@@ -4,4 +4,4 @@ theme = "hugo-bearblog"
 paginate = 15
 
 [params]
-custom_css = ["/css/custom.css"]
+custom_css = "css/custom.css"

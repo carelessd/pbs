@@ -14,11 +14,13 @@ li {
     margin-bottom: 1rem !important; 
     gap: 15px !important; 
 }
-li > span, li > time, li > i { 
+/* 给日期单独指定宽度 */
+li > span { 
     flex-shrink: 0 !important; 
-    width: 105px !important; 
+    width: 110px !important; 
     display: block !important; 
 }
+/* 标题占据剩余空间并限制在内换行 */
 li > a { 
     flex: 1 !important; 
     display: block !important; 
