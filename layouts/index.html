@@ -2,20 +2,22 @@
 <style>
   body { background-color: #f2f4ee !important; color: #2e4732 !important; }
   a { color: #2e4732 !important; }
-  /* 让阅读器、iframe或书籍展示容器撑满正常宽度 */
-  iframe, .reader-container, embed {
-    width: 100% !important;
-    height: 80vh !important;
-    border: none !important;
-    background-color: #f2f4ee !important;
+  header.global-header a, .site-title, nav a {
+    font-size: 2.2rem !important;
+    font-weight: bold !important;
   }
 </style>
+
+  <div style="font-size: 2.2rem; font-weight: bold; margin-bottom: 2rem;">
+    <a href="{{ "/" | relLangURL }}" style="text-decoration: none;">{{ .Site.Title }}</a>
+  </div>
 
   {{ $paginator := .Paginate .Site.RegularPages 15 }}
   <ul style="list-style-type: none; padding-left: 0;">
     {{ range $paginator.Pages }}
       <li style="margin-bottom: 0.5rem;">
-        <span style="color: #5a7a5e; margin-right: 1rem;">{{ .Date.Format "02 Jan, 2006" }}</span>
+        <!-- 改为 Month Day, Year 格式 -->
+        <span style="color: #5a7a5e; margin-right: 1rem;">{{ .Date.Format "Jan 02, 2006" }}</span>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
