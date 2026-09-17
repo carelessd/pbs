@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Careless</title>
-		<link>https://n.hieronymus.uk/tags/</link>
+		<link>http://localhost:1313/tags/</link>
 		<description>Recent content in Tags on Careless</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,82 +12,82 @@
 		
 			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://n.hieronymus.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Journals</title>
-				<link>https://n.hieronymus.uk/tags/journals/</link>
+				<link>http://localhost:1313/tags/journals/</link>
 				<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/journals/</guid>
+				<guid>http://localhost:1313/tags/journals/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Notes</title>
-				<link>https://n.hieronymus.uk/tags/notes/</link>
+				<link>http://localhost:1313/tags/notes/</link>
 				<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/notes/</guid>
+				<guid>http://localhost:1313/tags/notes/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Books</title>
-				<link>https://n.hieronymus.uk/tags/books/</link>
+				<link>http://localhost:1313/tags/books/</link>
 				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/books/</guid>
+				<guid>http://localhost:1313/tags/books/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Digest</title>
-				<link>https://n.hieronymus.uk/tags/digest/</link>
+				<link>http://localhost:1313/tags/digest/</link>
 				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/digest/</guid>
+				<guid>http://localhost:1313/tags/digest/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Reading</title>
-				<link>https://n.hieronymus.uk/tags/reading/</link>
+				<link>http://localhost:1313/tags/reading/</link>
 				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/reading/</guid>
+				<guid>http://localhost:1313/tags/reading/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Option</title>
-				<link>https://n.hieronymus.uk/tags/option/</link>
+				<link>http://localhost:1313/tags/option/</link>
 				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/option/</guid>
+				<guid>http://localhost:1313/tags/option/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Quote</title>
-				<link>https://n.hieronymus.uk/tags/quote/</link>
+				<link>http://localhost:1313/tags/quote/</link>
 				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/quote/</guid>
+				<guid>http://localhost:1313/tags/quote/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Thoughts</title>
-				<link>https://n.hieronymus.uk/tags/thoughts/</link>
+				<link>http://localhost:1313/tags/thoughts/</link>
 				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/thoughts/</guid>
+				<guid>http://localhost:1313/tags/thoughts/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Trading</title>
-				<link>https://n.hieronymus.uk/tags/trading/</link>
+				<link>http://localhost:1313/tags/trading/</link>
 				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/trading/</guid>
+				<guid>http://localhost:1313/tags/trading/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Writings</title>
-				<link>https://n.hieronymus.uk/tags/writings/</link>
+				<link>http://localhost:1313/tags/writings/</link>
 				<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/writings/</guid>
+				<guid>http://localhost:1313/tags/writings/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Pics</title>
-				<link>https://n.hieronymus.uk/tags/pics/</link>
+				<link>http://localhost:1313/tags/pics/</link>
 				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/pics/</guid>
+				<guid>http://localhost:1313/tags/pics/</guid>
 				<description></description>
 			</item>
 	</channel>

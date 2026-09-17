@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Quote on Careless</title>
-		<link>https://n.hieronymus.uk/tags/quote/</link>
+		<link>http://localhost:1313/tags/quote/</link>
 		<description>Recent content in Quote on Careless</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://n.hieronymus.uk/tags/quote/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/quote/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Stride Toward Freedom, 1958</title>
-				<link>https://n.hieronymus.uk/quote/</link>
+				<link>http://localhost:1313/quote/</link>
 				<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/quote/</guid>
+				<guid>http://localhost:1313/quote/</guid>
 				<description>&lt;p&gt;In the end, we will remember not the words of our enemies, but the silence of our friends.&lt;/p&gt;</description>
 			</item>
 	</channel>

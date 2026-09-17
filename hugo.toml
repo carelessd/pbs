@@ -1,4 +1,4 @@
-baseURL = "https://n.hieronymus.uk/"
+baseURL = "http://localhost:1313/"
 title = "Careless"
 theme = "hugo-bearblog"
 paginate = 15

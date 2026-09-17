@@ -1,20 +1,26 @@
-/* 让列表变成弹性盒子布局 */
-ul.blog-posts li {
-    display: flex !important;
-    align-items: flex-start !important;
-    margin-bottom: 1rem !important;
+body { background-color: #f2f4ee !important; color: #2e4732 !important; }
+a { color: #2e4732 !important; }
+header { display: none !important; }
+main > h1:first-child, body > h1 { 
+    display: block !important; 
+    font-size: 2rem !important; 
+    font-weight: 700 !important; 
+    margin-top: 1.5rem !important; 
 }
-
-/* 锁定日期部分的宽度，保证它不会被挤压 */
-ul.blog-posts li > span {
-    flex-shrink: 0 !important;
-    width: 110px !important; /* 预留给日期的宽度 */
-    display: block !important;
+ul { padding-left: 0 !important; list-style: none !important; }
+li { 
+    display: flex !important; 
+    align-items: flex-start !important; 
+    margin-bottom: 1rem !important; 
+    gap: 15px !important; 
 }
-
-/* 标题部分占据右侧剩余的所有空间，换行只在这个区域内发生 */
-ul.blog-posts li > a {
-    flex: 1 !important;
-    display: block !important;
-    line-height: 1.5 !important;
+li > span, li > time, li > i { 
+    flex-shrink: 0 !important; 
+    width: 105px !important; 
+    display: block !important; 
+}
+li > a { 
+    flex: 1 !important; 
+    display: block !important; 
+    line-height: 1.4 !important; 
 }
