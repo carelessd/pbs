@@ -1,5 +1,5 @@
 <style>
-/* 1. 首页列表分列：第二行标题与第一行严格垂直对齐，不延展到日期下方 */
+/* 1. 首页列表分列：保持完美对齐 */
 main ul li, ul li {
   display: flex !important;
   align-items: flex-start !important;
@@ -17,11 +17,13 @@ main ul li > a, ul li > a {
   text-align: left !important;
 }
 
-/* 2. 正文彻底恢复自然排版：左对齐，正常词间距，禁止强行拉伸空白 */
+/* 2. 正文英文：两端拉齐 + 自动连字符断词（消除单词间巨大空格） */
 div.content, div.content p {
-  text-align: left !important;
+  text-align: justify !important;
   text-align-last: left !important;
-  word-spacing: normal !important;
-  letter-spacing: normal !important;
+  text-justify: inter-word !important;
+  -webkit-hyphens: auto !important;
+  hyphens: auto !important;
+  word-break: break-word !important;
 }
 </style>
