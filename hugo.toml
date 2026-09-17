@@ -4,4 +4,4 @@ theme = "hugo-bearblog"
 paginate = 15
 
 [params]
-  custom_css = "<style>body { background-color: #f2f4ee !important; color: #2e4732 !important; } a { color: #2e4732 !important; } header a, nav a:first-child, .title { display: none !important; } h1 { font-size: 1.8rem; font-weight: 700; margin-top: 1rem; }</style>"
+  custom_css = "<style>body { background-color: #f2f4ee !important; color: #2e4732 !important; } a { color: #2e4732 !important; } header { display: none !important; } main > h1:first-child, body > h1 { display: block !important; font-size: 2rem !important; font-weight: 700 !important; margin-top: 1.5rem !important; }</style>"
