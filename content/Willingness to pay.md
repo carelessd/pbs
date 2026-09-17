@@ -1,6 +1,6 @@
 ---
 
-Title: 付费意愿
+Title: Willingness to pay
 Date: 2026-09-13
 Draft: fase
 Tags:
