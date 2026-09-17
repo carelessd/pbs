@@ -1,0 +1,1 @@
+body > h1:first-of-type, header + h1 { display: none !important; }
