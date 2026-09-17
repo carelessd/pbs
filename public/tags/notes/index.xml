@@ -10,15 +10,15 @@
 		
 		
 		
-			<lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Test</title>
+				<title>Situation Awareness</title>
 				<link>http://localhost:1313/1-test/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/1-test/</guid>
-				<description>&lt;p&gt;Test&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260916-194849_Robinhood.png&#34; alt=&#34;daily-trading&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Today I bought 1 contract of SPXW 7600p 9/16 at $15/contract, sold at $16/contract, 7600p rose to $100/contract, finally stopped at $48.2/contract; I also bought 1 contract of SPXW 7510c 9/16 at $17.6/contract, sold at $18.7/contract, 7510c rose to $50/contract at one point, finally stopped at $41.8/contract.&lt;/p&gt;&#xA;&lt;p&gt;The great situational awareness didn&amp;rsquo;t translate to more profit from the volatile 0DTE options market; the heavy positioning led to flawed execution.&#xA;My mentality is still that of a typical retail investor.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -8,13 +8,22 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-09-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/journals/</loc>
+    <lastmod>2026-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/notes/</loc>
+    <lastmod>2026-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/1-test/</loc>
+    <lastmod>2026-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-09-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/books/</loc>
     <lastmod>2026-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/digest/</loc>
-    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/journals/</loc>
     <lastmod>2026-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pagination-is-complete/</loc>
@@ -27,9 +36,6 @@
     <lastmod>2026-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/safe-passage/</loc>
-    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fox/</loc>
@@ -98,19 +104,10 @@
     <loc>http://localhost:1313/dark-alliance-the-cia-the-contras-and-the-crack-cocaine-explosion-by-gary-webb/</loc>
     <lastmod>2026-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/notes/</loc>
-    <lastmod>2026-09-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/one-nation-under-blackmail/</loc>
     <lastmod>2026-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/rise-and-kill-first-by-ronen-bergman/</loc>
-    <lastmod>2026-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/1-test/</loc>
-    <lastmod>2026-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tests/</loc>
     <lastmod>2026-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/the-franklin-cover-up-by-john-decamp/</loc>
