@@ -8,3 +8,29 @@ div.content, div.content p {
   hyphens: auto !important;
   word-break: break-word !important;
 }
+
+/* 1. 首页列表：分列对齐，标题换行后左侧垂直对齐 */
+ul li {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 12px !important;
+}
+ul li > span {
+  flex: 0 0 110px !important;
+  display: block !important;
+  white-space: nowrap !important;
+}
+ul li > a {
+  flex: 1 1 auto !important;
+  display: block !important;
+  min-width: 0 !important;
+  text-align: left !important;
+}
+
+/* 2. 正文段落：强制英文两端严格拉齐 */
+.content, .content p, div[class*="content"] p {
+  text-align: justify !important;
+  text-align-last: left !important;
+  text-justify: inter-word !important;
+  word-spacing: -0.02em;
+}
