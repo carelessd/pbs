@@ -1,6 +1,6 @@
 ---
 
-Title: ####Rosemary
+Title: Rosemary
 Date: 2026-09-09
 Draft: fase
 Tags:
