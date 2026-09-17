@@ -1,5 +1,5 @@
 <style>
-/* 1. 首页列表保持分列垂直对齐 */
+/* 首页列表分列：第二行标题与第一行严格垂直对齐，不延展到日期下方 */
 main ul li, ul li {
   display: flex !important;
   align-items: flex-start !important;
@@ -17,7 +17,7 @@ main ul li > a, ul li > a {
   text-align: left !important;
 }
 
-/* 2. 正文英文：禁止撕裂单词，保持自然阅读 */
+/* 正文段落：标准自然排版，不切断单词，无异常空格 */
 div.content, div.content p {
   text-align: left !important;
   text-align-last: left !important;
