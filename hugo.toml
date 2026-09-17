@@ -1,7 +1,7 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://n.hieronymus.uk/"
 title = "Careless"
 theme = "hugo-bearblog"
 paginate = 15
 
 [params]
-  custom_css = "<style>body { background-color: #f2f4ee !important; color: #2e4732 !important; } a { color: #2e4732 !important; } header { display: none !important; } main > h1:first-child, body > h1 { display: block !important; font-size: 2rem !important; font-weight: 700 !important; margin-top: 1.5rem !important; } ul { padding-left: 0 !important; list-style: none !important; } li { display: flex !important; align-items: flex-start !important; margin-bottom: 1rem !important; gap: 15px !important; } li > span, li > time, li > i { flex-shrink: 0 !important; width: 105px !important; display: block !important; } li > a { flex-grow: 1 !important; display: block !important; line-height: 1.4 !important; }</style>"
+custom_css = ["css/custom.css"]

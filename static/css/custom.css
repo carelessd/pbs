@@ -1,1 +1,20 @@
-body { background-color: #e3edcd !important; color: #2d4a22 !important; } a { color: #2d4a22 !important; }
+/* 让列表变成弹性盒子布局 */
+ul.blog-posts li {
+    display: flex !important;
+    align-items: flex-start !important;
+    margin-bottom: 1rem !important;
+}
+
+/* 锁定日期部分的宽度，保证它不会被挤压 */
+ul.blog-posts li > span {
+    flex-shrink: 0 !important;
+    width: 110px !important; /* 预留给日期的宽度 */
+    display: block !important;
+}
+
+/* 标题部分占据右侧剩余的所有空间，换行只在这个区域内发生 */
+ul.blog-posts li > a {
+    flex: 1 !important;
+    display: block !important;
+    line-height: 1.5 !important;
+}
