@@ -16,4 +16,6 @@ Tags:
 
 Today I lost  $217 on the 7650p, mainly because I bought it at $11.10/contract and sold at $6.80/contract.
 
-Whereas I made some money on the prediction market, so overall I gained about $50 today. Again, the heavy positioning messed with my head - the direction was correct, but my execution wasn't. 
+However, I made some money on the prediction market, so overall I gained about $50 today. Again, the heavy positioning messed with my head - the direction was correct, but my execution wasn't. 
+
+Should I try XSP instead of SPXW? 
