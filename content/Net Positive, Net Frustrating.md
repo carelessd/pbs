@@ -1,7 +1,7 @@
 ---
 
-Title:  Test
-Date: 2026-09-05
+Title:  Net Positive, Net Frustrating
+Date: 2026-09-18
 Draft: false
 Tags:
   - notes
