@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Notes on Careless</title>
-		<link>https://n.hieronymus.uk/tags/notes/</link>
-		<description>Recent content in Notes on Careless</description>
+		<title>Day-Trading on Careless</title>
+		<link>https://n.hieronymus.uk/tags/day-trading/</link>
+		<description>Recent content in Day-Trading on Careless</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
@@ -12,7 +12,7 @@
 		
 			<lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://n.hieronymus.uk/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://n.hieronymus.uk/tags/day-trading/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title></title>
 				<link>https://n.hieronymus.uk/1-test/</link>
