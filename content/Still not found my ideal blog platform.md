@@ -1,6 +1,6 @@
 ---
 
-Title: Still not found my ideal blog platform. 
+Title: Not what I expected
 Date: 2026-09-12
 Draft: fase
 Tags:

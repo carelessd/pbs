@@ -1,6 +1,6 @@
 ---
 
-title: 2666 by Roberto Bolaño
+title: 2666 
 date: 2026-09-06
 draft: false
 Tags:

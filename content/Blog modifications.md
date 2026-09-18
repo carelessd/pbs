@@ -1,5 +1,5 @@
 ---
-title: Added EBook Reader/Markdown Writer/Podcast Player to my blog. 
+title: Blog modifications
 date: 2026-09-16
 draft: false
 ---

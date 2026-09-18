@@ -1,6 +1,6 @@
 ---
 
-title: What We Talk About When We Talk About Love Stories 
+title: What We Talk About When We Talk About Love
 date: 2026-09-06
 draft: false
 Tags:

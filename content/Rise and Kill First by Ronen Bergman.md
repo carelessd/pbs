@@ -1,6 +1,6 @@
 ---
 
-Title: Rise and Kill First by Ronen Bergman
+Title: Rise and Kill First
 Date: 2026-09-06
 Draft: fase
 Tags:

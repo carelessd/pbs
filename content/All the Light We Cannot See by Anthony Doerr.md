@@ -1,6 +1,6 @@
 ---
 
-title: All the Light We Cannot See by Anthony Doerr 
+title: All the Light We Cannot See
 date: 2026-09-06
 draft: false
 Tags:

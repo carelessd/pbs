@@ -1,6 +1,6 @@
 ---
 
-title: The Franklin Cover-Up by John DeCamp
+title: The Franklin Cover-Up
 Date: 2026-09-06
 draft: false
 Tags:
