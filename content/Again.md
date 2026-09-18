@@ -1,12 +1,13 @@
 ---
 
-Title:  
+Title:  Again
 Date: 2026-09-17
 Draft: false
 Tags:
   - notes
   - journals
   - day-trading 
+  - 0DATE
 
 ---
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Day-Trading on Careless</title>
-		<link>https://n.hieronymus.uk/tags/day-trading/</link>
-		<description>Recent content in Day-Trading on Careless</description>
+		<title>0DATE on Careless</title>
+		<link>https://n.hieronymus.uk/tags/0date/</link>
+		<description>Recent content in 0DATE on Careless</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
@@ -12,19 +12,12 @@
 		
 			<lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://n.hieronymus.uk/tags/day-trading/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://n.hieronymus.uk/tags/0date/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Again</title>
 				<link>https://n.hieronymus.uk/again/</link>
 				<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://n.hieronymus.uk/again/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-025628_Robinhood.png&#34; alt=&#34;daily-trading&#34;&gt;&#xA;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-025602_Robinhood.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Today I lost  $217 on the 7650p, mainly because I bought it at $11.10/contract and sold at $6.80/contract.&lt;/p&gt;&#xA;&lt;p&gt;Whereas I made some money on the prediction market, so overall I gained about $50 today. Again, the heavy positioning messed with my head - the direction was correct, but my execution wasn&amp;rsquo;t.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Test</title>
-				<link>https://n.hieronymus.uk/1-test/</link>
-				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/1-test/</guid>
 				<description>&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-025628_Robinhood.png&#34; alt=&#34;daily-trading&#34;&gt;&#xA;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-025602_Robinhood.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Today I lost  $217 on the 7650p, mainly because I bought it at $11.10/contract and sold at $6.80/contract.&lt;/p&gt;&#xA;&lt;p&gt;Whereas I made some money on the prediction market, so overall I gained about $50 today. Again, the heavy positioning messed with my head - the direction was correct, but my execution wasn&amp;rsquo;t.&lt;/p&gt;</description>
 			</item>
 	</channel>
