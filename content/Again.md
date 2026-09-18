@@ -1,7 +1,7 @@
 ---
 
-Title:  Net Positive, Net Frustrating
-Date: 2026-09-18
+Title:  Again
+Date: 2026-09-17
 Draft: false
 Tags:
   - notes
@@ -11,14 +11,12 @@ Tags:
 
 ---
 
-![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-150705_FinancialJuice.png)
-![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-150642_Robinhood.png)
-![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-150354_Robinhood.png)
-![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-150343_Robinhood_iris.jpg)
+![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-025628_Robinhood.png)
+![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Screenshot_20260918-025602_Robinhood.png)
 
-Today I spent a whole day, and only gained about $225.5.
-I made several correct decisions and several incorrect ones, essentially I wasted the day, the first correct execution was I bought 10 contracts 7535c at $1.25/contract, but I sold them at $1.35/contract; the second execution was I bought 10 contracts at $1.4/contract, but I sold them at $1.45/contract. Basically I gained just a bit from my correct decisions but lost a lot from wrong choices.
+Today I lost $217 on the 7650p, mainly because I bought it at $11.10/contract and sold at $6.80/contract.
+However, I made some money on the prediction market, so overall I gained about $50 today. Again, the heavy positioning messed with my head — the direction was correct, but my execution wasn't.
 
-The MOC imbalance for the S&P 500 was - 5525 mln, yet SPXW still rose to 7650.5 finally.
-It is so hard for someone who wants to make money in a bull market by buying puts. 
+Should I try XSP instead of SPXW? 
+Any mistake
 
