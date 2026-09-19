@@ -22,3 +22,6 @@ I made several correct decisions and several incorrect ones, essentially I waste
 The MOC imbalance for the S&P 500 was - 5525 mln, yet SPXW still rose to 7650.5 finally.
 It is so hard for someone who wants to make money in a bull market by buying puts. 
 
+
+Douglas is right, when you stare at the short-term gains or losses, you will cloud your own judgement quickly. You will get impatient and lose your composure rapidly.
+What really matters isn't the sudden losses or gains. There are two factors that cause your mentality to collapse: the first is heavy positioning deviating from your plan; the second is your execution without a clear stop-loss strategy. It is tough to hold on to the position when you cannot accept the potential loss. If you feel your entry point is wrong, then step back instantly, watch and look for another opportunity to enter. This is a typical symptom of emotion-driven trading showing that retail investors always stubbornly refuse to cut losses, but sell out immediately at small gains. 
