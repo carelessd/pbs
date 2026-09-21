@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://n.hieronymus.uk/tags/book-reviews/</loc>
+    <lastmod>2026-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://n.hieronymus.uk/tags/books/</loc>
+    <lastmod>2026-09-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://n.hieronymus.uk/</loc>
-    <lastmod>2026-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://n.hieronymus.uk/tags/goodreads/</loc>
+    <lastmod>2026-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://n.hieronymus.uk/tags/</loc>
+    <lastmod>2026-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://n.hieronymus.uk/the-age-of-surveillance-capitalism_-the-fight-for-a-human-future-at-the-new-frontier-of-power_shoshana-zuboff/</loc>
+    <lastmod>2026-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://n.hieronymus.uk/tags/journals/</loc>
     <lastmod>2026-09-19T00:00:00+00:00</lastmod>
@@ -15,9 +30,6 @@
     <lastmod>2026-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://n.hieronymus.uk/please-tell-me-why/</loc>
-    <lastmod>2026-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://n.hieronymus.uk/tags/</loc>
     <lastmod>2026-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://n.hieronymus.uk/tags/0date/</loc>
@@ -37,9 +49,6 @@
   </url><url>
     <loc>https://n.hieronymus.uk/swaying/</loc>
     <lastmod>2026-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://n.hieronymus.uk/tags/books/</loc>
-    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://n.hieronymus.uk/tags/digest/</loc>
     <lastmod>2026-09-15T00:00:00+00:00</lastmod>
