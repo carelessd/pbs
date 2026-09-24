@@ -1,6 +1,6 @@
 ---
 
-Title:  Previous Bullets
+Title:  Precious Bullets
 Date: 2026-09-23
 Draft: false
 Tags:
