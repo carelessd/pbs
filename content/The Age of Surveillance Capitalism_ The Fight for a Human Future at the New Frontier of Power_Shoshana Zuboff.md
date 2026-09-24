@@ -1,7 +1,7 @@
 ---
 
 Title: The Age of Surveillance Capitalism
-Date: 2026-09-20
+Date: 2026-09-21
 Draft: false
 Tags:
     - books
