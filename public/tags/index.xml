@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://n.hieronymus.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Poems</title>
+				<link>https://n.hieronymus.uk/tags/poems/</link>
+				<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://n.hieronymus.uk/tags/poems/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Poetry</title>
+				<link>https://n.hieronymus.uk/tags/poetry/</link>
+				<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://n.hieronymus.uk/tags/poetry/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>0DATE</title>
 				<link>https://n.hieronymus.uk/tags/0date/</link>

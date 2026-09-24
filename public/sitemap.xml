@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://n.hieronymus.uk/tags/0date/</loc>
-    <lastmod>2026-09-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://n.hieronymus.uk/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://n.hieronymus.uk/tags/poems/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://n.hieronymus.uk/tags/poetry/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://n.hieronymus.uk/poems/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://n.hieronymus.uk/tags/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://n.hieronymus.uk/tags/0date/</loc>
     <lastmod>2026-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://n.hieronymus.uk/tags/day-trading/</loc>
@@ -18,9 +30,6 @@
     <lastmod>2026-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://n.hieronymus.uk/previous-bullets/</loc>
-    <lastmod>2026-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://n.hieronymus.uk/tags/</loc>
     <lastmod>2026-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://n.hieronymus.uk/tags/journal/</loc>
@@ -158,7 +167,7 @@
     <loc>https://n.hieronymus.uk/test/</loc>
     <lastmod>2026-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://n.hieronymus.uk/untitled-57/</loc>
+    <loc>https://n.hieronymus.uk/1/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://n.hieronymus.uk/categories/</loc>
