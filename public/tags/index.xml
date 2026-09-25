@@ -14,6 +14,20 @@
 		
 			<atom:link href="https://n.hieronymus.uk/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Journals</title>
+				<link>https://n.hieronymus.uk/tags/journals/</link>
+				<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://n.hieronymus.uk/tags/journals/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Notes</title>
+				<link>https://n.hieronymus.uk/tags/notes/</link>
+				<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://n.hieronymus.uk/tags/notes/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Poems</title>
 				<link>https://n.hieronymus.uk/tags/poems/</link>
 				<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
@@ -39,20 +53,6 @@
 				<link>https://n.hieronymus.uk/tags/day-trading/</link>
 				<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
 				<guid>https://n.hieronymus.uk/tags/day-trading/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Journals</title>
-				<link>https://n.hieronymus.uk/tags/journals/</link>
-				<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/journals/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Notes</title>
-				<link>https://n.hieronymus.uk/tags/notes/</link>
-				<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/tags/notes/</guid>
 				<description></description>
 			</item>
 			<item>
