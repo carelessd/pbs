@@ -43,6 +43,6 @@ The owl from the steeple sing,　　
 Welcome, proud lady.”
 
 <audio controls>
-  <source src="/audio/https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/My%20Recording_1.mp3" type="audio/mpeg">
+  <source src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/My%20Recording_1.mp3" type="audio/mp3">
   您的浏览器不支持音频播放。
 </audio>
