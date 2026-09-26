@@ -6,6 +6,10 @@ Tags:
     - poems
 ---
 
+![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Ivanhoe.png)
+![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/41865.jpg)
+![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Ivanhoe.png)
+
 THE PRIDE OF YOUTH
 
 by: Sir Walter Scott (1771-1832)　　　
