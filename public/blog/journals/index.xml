@@ -12,16 +12,9 @@
 			<copyright>Copyright © 2020, Jane Doe.</copyright>
 		
 		
-			<lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://n.hieronymus.uk/blog/journals/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>The</title>
-				<link>https://n.hieronymus.uk/2026_09_26/</link>
-				<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>https://n.hieronymus.uk/2026_09_26/</guid>
-				<description>&lt;p&gt;Test&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/My%20Recording_1.mp3&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
-			</item>
 			<item>
 				<title>Halloween</title>
 				<link>https://n.hieronymus.uk/halloween-/</link>
