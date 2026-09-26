@@ -8,7 +8,7 @@ Tags:
 
 ![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Ivanhoe.png)
 ![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/41865.jpg)
-![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/Ivanhoe.png)
+![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/NGS_NGS_PG_103-001-3451001893.jpg)
 
 THE PRIDE OF YOUTH
 
