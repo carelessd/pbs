@@ -1,6 +1,6 @@
 ---
 Title: The Pride of Youth
-Date: 2026-09-26
+Date: 2026-09-25
 Draft: false
 Tags:
     - poems
@@ -43,6 +43,6 @@ The owl from the steeple sing,　　
 Welcome, proud lady.”
 
 <audio controls>
-  <source src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/My%20Recording_1.mp3" type="audio/mp3">
+  <source src="https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/The%20Pride%20Of%20Youth.mp3">
   您的浏览器不支持音频播放。
 </audio>
